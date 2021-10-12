@@ -1,5 +1,6 @@
 ---
 layout: post
+title: Learning how to make yeast paste for fly laying plates
 ---
 
 Making Yeast Paste with Kent (watching) 2021 10 04
