@@ -1,6 +1,6 @@
 ---
-Layout: post
-Title: Domeless Cell Culture 1 Day 2
+layout: post
+title: Domeless Cell Culture 1 Day 2
 ---
 
 # Domeless Egg Collection and Cell Culture Preparation Day 2

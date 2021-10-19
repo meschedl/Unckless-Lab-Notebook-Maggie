@@ -1,6 +1,6 @@
 ---
-Layout: post
-Title: Myd88 Egg Collection and Cell Culture
+layout: post
+title: Myd88 Egg Collection and Cell Culture
 ---
 
 ## Myd88 Egg Collection and Cell Culture Prep with Kent (watching) 2021 10 07

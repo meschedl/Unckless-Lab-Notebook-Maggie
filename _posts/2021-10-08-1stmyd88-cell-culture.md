@@ -1,6 +1,6 @@
 ---
-Layout: post
-Title: First Try Collecting Eggs and Preparing Cell Culture on My Own, Myd88 Files
+layout: post
+title: First Try Collecting Eggs and Preparing Cell Culture on My Own, Myd88 Files
 ---
 
 ## Second day of Myd88 laying and cell culture prep

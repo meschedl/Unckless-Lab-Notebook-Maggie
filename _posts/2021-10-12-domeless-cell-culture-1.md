@@ -1,6 +1,6 @@
 ---
-Layout: post
-Title: Domeless Flies Day 1 Cage Setup, Filtering, and Cell Culture Prep
+layout: post
+title: Domeless Flies Day 1 Cage Setup, Filtering, and Cell Culture Prep
 ---
 
 ## Cage set up for Domeless fly egg laying, then egg collection and cell culture preparation the day after. Trying using trypsin to break up cell clumps.

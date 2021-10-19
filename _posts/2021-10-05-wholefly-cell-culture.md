@@ -1,6 +1,6 @@
 ---
-Layout: post
-Title: Attempting Whole Fly Cell Culture
+layout: post
+title: Attempting Whole Fly Cell Culture
 ---
 
 ## Attempting Whole Fly Cell Culture with Kent (watching) 2021 10 05
