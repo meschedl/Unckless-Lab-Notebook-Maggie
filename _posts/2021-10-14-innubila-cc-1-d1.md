@@ -1,6 +1,6 @@
 ---
-Layout: post
-Title: Innubila Cell Culture Prep Day 1 and 2
+layout: post
+title: Innubila Cell Culture Prep Day 1 and 2
 ---
 
 # Trying Cell Culture Primary Cell Generation on _Drosophila innubila_ Flies/Eggs on 2021 10 14 and 2021 10 15
