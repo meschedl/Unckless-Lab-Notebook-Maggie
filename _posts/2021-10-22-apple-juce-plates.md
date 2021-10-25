@@ -1,4 +1,4 @@
-----
+---
 layout: post
 title: How to Make Apple Juice Plates
 ---
@@ -36,6 +36,6 @@ title: How to Make Apple Juice Plates
 - Pour quickly and carefully so the agar doesn't solidify
 - Let the plates sit 20-40min until they are solid
 - Clean the flask immediately when you're finished with it so the agar doesn't solidify: soap and water, then distilled water. Same with the other flask and the cylinders
-- For the TEGOSEPT beaker: needs to be rinsed with 95% ethanol to remove any TEGOSEPT residue, then water and distilled water 
+- For the TEGOSEPT beaker: needs to be rinsed with 95% ethanol to remove any TEGOSEPT residue, then water and distilled water
 - Plate the plates back into the sleeve and tape up the sleeve
 - Place the plates in the 4 degree fridge with the agar side up to avoid condensation on the agar
