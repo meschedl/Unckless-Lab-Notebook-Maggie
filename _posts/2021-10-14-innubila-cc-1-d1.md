@@ -1,14 +1,9 @@
 ---
-<<<<<<< HEAD
-Layout: post
-Title: Innubila Cell Culture Prep Day 1 and 2
-=======
 layout: post
 title: Innubila Cell Culture Prep Day 1 and 2
->>>>>>> d444d64169b41de29e660d78d16b4952f5fcad55
 ---
 
-# Trying Cell Culture Primary Cell Generation on _Drosophila innubila_ Flies/Eggs on 2021 10 14 and 2021 10 15
+## Trying Cell Culture Primary Cell Generation on _Drosophila innubila_ Flies/Eggs on 2021 10 14 and 2021 10 15
 
 - Procedure for collecting eggs, filtering, washing, and setting up in cell culture was followed exactly as with the [domeless flies](https://meschedl.github.io/Unckless-Lab-Notebook-Maggie/2021/10/12/domeless-cell-culture-1.html)
 - I used the fresh 420 medium made [that morning](https://meschedl.github.io/Unckless-Lab-Notebook-Maggie/2021/10/14/domeless-cc-1-d2.html)
