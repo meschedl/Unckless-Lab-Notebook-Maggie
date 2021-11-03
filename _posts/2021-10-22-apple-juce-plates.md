@@ -3,7 +3,7 @@ layout: post
 title: How to Make Apple Juice Plates
 ---
 
-# Protocol for Making Apple Juice Plates for Fly Laying for Cell Culture
+## Protocol for Making Apple Juice Plates for Fly Laying for Cell Culture
 
 **Steps**
 - Make a 1/2 liter recipe for ~20 plates
