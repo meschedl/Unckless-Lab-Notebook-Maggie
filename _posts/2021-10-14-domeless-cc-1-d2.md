@@ -3,7 +3,7 @@ layout: post
 title: Domeless Cell Culture 1 Day 2
 ---
 
-# Domeless Egg Collection and Cell Culture Preparation Day 2
+## Domeless Egg Collection and Cell Culture Preparation Day 2
 
 **Making New Medium**
 - Not enough medium without serum to do the whole process, only about 15mL left and I need 20mL. I decided to make more medium with serum as well just to make everything at the same time (this also saves a 50mL serological pipette)
