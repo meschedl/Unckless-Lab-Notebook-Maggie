@@ -3,7 +3,7 @@ layout: post
 title: Regular DNA Extraction on Samples for HMW
 ---
 
-# Using the Puregene Cell and Tissue Kit to Extract DNA from the DiNV Positive and Cell Control Samples to Get a Baseline of Extraction Efficiency
+## Using the Puregene Cell and Tissue Kit to Extract DNA from the DiNV Positive and Cell Control Samples to Get a Baseline of Extraction Efficiency
 
 **Notes**
 - Following a mix of the bacterial and the 15 flies protocols from the lab drive because my samples are in liquid from
