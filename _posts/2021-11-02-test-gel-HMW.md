@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Test Gel for HMW dna
+title: Test Gel for HMW DNA
 ---
 
 ## Practice Loading and Running a Gel for HMW DNA using the NEB [MidRangePGF Marker](https://www.neb.com/products/n0342-midrange-pfg-marker#Product%20Information)
@@ -64,4 +64,12 @@ title: Test Gel for HMW dna
   - 28.8ul molecular grade water
 - I already have 4 wells with the PFG marker, then I'm going to make 2 wells with the 48kb ladder, 1 well with a 1kb plus ladder, and 1 well each of the [puregene extracted DNA](https://meschedl.github.io/Unckless-Lab-Notebook-Maggie/2021/10/25/puregene-ex-for-hmw.html). The DNA samples should not be super HMW but I wanted to see how "regular" DNA would run in this gel and these are my only samples with enough DNA to show on a gel (but I don't need them for anything)
 - I used 10ul of the 48kb ladder, 6ul of the 1kb plus ladder, and 5ul of the samples (plus ~1ul of dye) for the gel
-- Let the gel run for 5 hours at 46 volts  
+- Let the gel run for 5 hours and 10 minutes at 46 volts
+- Afterwards let the gel incubate in the EtBr bath for ~45-60 minutes
+    - When sliding the gel off the tray into the bath, it folded over and broke in half length-wise. It also flipped over. I was still able to image it fine and put the two pieces together for a coherent image, but the low percentage gel is fragile so I need to be careful and make sure to use both hands when maneuvering it around
+- Gel image:
+![](https://raw.githubusercontent.com/meschedl/Unckless-Lab-Notebook-Maggie/master/images/20211103-HMW-test-gel-1.jpeg)
+
+So, the gel clearly did not run long enough, although the voltage might be ok. There didn't seem to be a difference between the ways I put in the rounds of the PFG marker, so that's a good sign. However it migrated so little I'm not 100% sure if the sealing agarose was too hot or not. Because the lower band looks ok I'm going to assume it was ok. I can always try to measure the temp of the gel liquid before pipetting.
+
+My plan is to try another test gel, same % and voltage, running over night for 15 and 20 hours. I'll add ladder to both sides of the gel, then cut the gel in half at 15 hours and image half of it. I'm also going to try to use wider well combs, and more volume of the 48kb ladder (a little faint. Protocol says to use 16ul and I used 10). I probably will only try 1 round per side. Maybe 2 and have those spilt up. 
