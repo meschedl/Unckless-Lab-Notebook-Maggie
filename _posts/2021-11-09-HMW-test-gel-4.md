@@ -45,3 +45,5 @@ title: Practice Gels for HMW DNA - 16 hrs at 4 Degrees
 
 After going back and looking at the 22hr gel that was at 40V(see image below), even the largest DNA is halfway down the gel. Even though the time was less and the gel % more, I think the increased voltage by ~100V made everything move soooo much faster.
 ![](https://raw.githubusercontent.com/meschedl/Unckless-Lab-Notebook-Maggie/master/images/previous-hmw-gel-for-reference.jpeg)
+
+Another interesting thing was that I noticed when I took the gel box out of the fridge that it was hot. So I measured the temp and it was 35 degrees C inside the gel box. So it wasn't actually that cold in there, but probably colder than it was without being in the fridge. 
