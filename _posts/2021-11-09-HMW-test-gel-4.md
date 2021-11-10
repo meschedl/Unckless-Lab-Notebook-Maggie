@@ -40,6 +40,7 @@ title: Practice Gels for HMW DNA - 16 hrs at 4 Degrees
 - Sliced the gel for easy handling, and placed in the EtBr bath for 1 hr
 - After being in the EtBr, placed the gel on the UV for imaging
 - HA! Nothing left on the gel!
+
 ![](https://raw.githubusercontent.com/meschedl/Unckless-Lab-Notebook-Maggie/master/images/20211110-hmw-gel-lol.jpeg)
 
 After going back and looking at the 22hr gel that was at 40V(see image below), even the largest DNA is halfway down the gel. Even though the time was less and the gel % more, I think the increased voltage by ~100V made everything move soooo much faster.
