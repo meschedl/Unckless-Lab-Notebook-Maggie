@@ -56,7 +56,7 @@ title: 16 Hour Gel of HMW Samples and Gel Extraction
 |120hr Bottom|1.022|33.4|100.2|
 |POSPB Bottom|1.012|23.4|70.2|
 
-- Added "3 volumes" of the gel to each tube with Buffer QG (5th column in table above)
+- Added "3 volumes" of the gel to each tube with Buffer QG (4th column in table above)
   - Note here that the QG buffer should be yellow to have the right pH. The buffer in the bottle looked a little orange, but in the tube looked nicely yellow, so I did not add and NaOAc to adjust the pH
   ![](https://raw.githubusercontent.com/meschedl/Unckless-Lab-Notebook-Maggie/master/images/20211116-buffercolor1.jpeg)
   ![](https://raw.githubusercontent.com/meschedl/Unckless-Lab-Notebook-Maggie/master/images/20211116-buffercolor.jpeg)
@@ -85,4 +85,4 @@ title: 16 Hour Gel of HMW Samples and Gel Extraction
   - 120T: 0.18ng/ul
   - 120B: 0.212ng/ul
 
-I'm hoping here the issue was that the buffer QG was not the right pH for DNA binding. I will try the overnight gel again with more input DNA from the 120hr extract, probably trying two different lanes. I don't think the amount of DNA input is an issue because that sample is really concentrated in DNA, but I don't know. I will try 15ul which should be over 1ug of DNA. The low yield samples basically didn't show up in the gel, there is resolution lost running it so long so that makes sense. Another issue could be that the DNA was too large to elute from the spin column, the size I want is out of the range of the kit. But I just expected the DNA to shear not to not come out. I can adjust the elution incubation time and warm the elution buffer to help the DNA release from the column. I will try this again! 
+I'm hoping here the issue was that the buffer QG was not the right pH for DNA binding. I will try the overnight gel again with more input DNA from the 120hr extract, probably trying two different lanes. I don't think the amount of DNA input is an issue because that sample is really concentrated in DNA, but I don't know. I will try 15ul which should be over 1ug of DNA. The low yield samples basically didn't show up in the gel, there is resolution lost running it so long so that makes sense. Another issue could be that the DNA was too large to elute from the spin column, the size I want is out of the range of the kit. But I just expected the DNA to shear not to not come out. I can adjust the elution incubation time and warm the elution buffer to help the DNA release from the column. I will try this again!
