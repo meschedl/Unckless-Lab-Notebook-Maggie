@@ -1,1 +1,1 @@
-In the process to being built :)
+Please click on link at the top right corner for the website
