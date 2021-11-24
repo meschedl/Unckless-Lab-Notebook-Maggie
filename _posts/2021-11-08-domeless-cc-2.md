@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Week of 202111018 Cell Culture Preparation - Domeless
+title: Week of 20211108 Cell Culture Preparation - Domeless
 ---
 
 ## Cell Culture Preparation of Domeless Eggs
