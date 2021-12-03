@@ -93,4 +93,5 @@ title: 16 Hour HMW DNA Gel and Zymo Gel Extraction
   - 3mL-UP: 2.09ng/ul
   - 3mL-LOW: 2.18ng/ul
   - 3mL-WELL:1.13ng/ul
-  - Gel-Control: 4.85ng/ul
+  - Gel-Control: too low
+  - PFG-Ladder: 4.85ng/ul
