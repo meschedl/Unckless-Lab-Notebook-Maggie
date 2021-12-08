@@ -17,6 +17,7 @@ title: 3mL-120hr Zymo Gel Extractioned DNA RPL11 PCR and HMW 3mL/2mL p47 and RPL
 - Needed to dilute the HMW extraction samples because they are way too concentrated to use in a PCR
   - 3mL-120hr is 115ng/ul: dilute 2ul in 28ul TE buffer
   - 2mL-120hr is 43ng/ul: dilute 1.2ul in 18.8ul
+- Using 4ul DNA per sample, except for the positive control, ngeative control, and the 3mL-120hr sample
 - Created master mix on ice:
   - 1ul 10X NEB taq buffer * 8.8 = 8.8ul
   - 1ul 2mM dNTPs * 8.8 = 8.8ul
@@ -25,7 +26,6 @@ title: 3mL-120hr Zymo Gel Extractioned DNA RPL11 PCR and HMW 3mL/2mL p47 and RPL
   - 0.25ul 10uM vir_RPL11_R primer * 8.8 = 2.2ul
   - 0.1ul NEB Taq * 8.8ul = 0.88ul
   - 2.4ul molecular grade water * 8.8 = 21.12ul
-- Using 4ul DNA per sample, except for the positive control, ngeative control, and the 3mL-120hr sample
 
 |tube #|sample|ul master mix|ul DNA|ul molec grade water|
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ title: 3mL-120hr Zymo Gel Extractioned DNA RPL11 PCR and HMW 3mL/2mL p47 and RPL
 - Incubated in EtBr for ~60min
 ![](https://raw.githubusercontent.com/meschedl/Unckless-Lab-Notebook-Maggie/master/images/20211207-PCR-gel.jpeg)
 
-The 3mL-120hr and 2mL-120hr samples are positive for p47! For RPL11, it looks like the fragment should actually only be 150bp in length (info from Rob), so it does seem to have amplified ok for 3mL-120hr and 2mL-120hr. But there is no RPL11 amplification for the gel extraction samples. I will need to redo the gel extraction and try a "dry" spin after the washes to get rid of any residual ethanol (my only idea for why it's not working atm). 
+The 3mL-120hr and 2mL-120hr samples are positive for p47! For RPL11, it looks like the fragment should actually only be 150bp in length (info from Rob), so it does seem to have amplified ok for 3mL-120hr and 2mL-120hr. But there is no RPL11 amplification for the gel extraction samples. I will need to redo the gel extraction and try a "dry" spin after the washes to get rid of any residual ethanol (my only idea for why it's not working atm).
