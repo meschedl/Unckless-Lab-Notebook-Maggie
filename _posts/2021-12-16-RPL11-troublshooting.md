@@ -8,11 +8,13 @@ title: Getting RPL11 to Amplify Gel Extracted Samples
 **20211213 Re-PCR RPL11 and p47 Testing Diluting DNA 1:10 and Doubling DNA Input**
 
 - Make diluted DNA:
+
  |Sample|DNA|Molcular grade water|
  |---|---|---|
  |3MLB-150|1|9|
  |3mLB-UP|1|9|
  |3mLB-LOW|1|9|
+
 - Make RPL11 master mix on ice:
   - 1ul 10X NEB taq buffer * 8.8 = 8.8ul
   - 1ul 2mM dNTPs * 8.8 = 8.8ul
@@ -22,6 +24,7 @@ title: Getting RPL11 to Amplify Gel Extracted Samples
   - 0.1ul NEB Taq * 8.8ul = 0.88ul
   - 0.4ul molecular grade water * 8.8 = 3.52ul
 - Added master mix, DNA, and water to strip tubes. Samples with "2" next to them had twice the amount of DNA added to them (~16-18ng total), and samples with the "D" were the 1:10 diluted samples
+
 |tube #|sample|ul RPL11 MM|ul DNA|ul water|
 |---|---|---|---|---|
 |1|3mLB-150-2|4|2|4|
@@ -32,6 +35,7 @@ title: Getting RPL11 to Amplify Gel Extracted Samples
 |6|3mLB-LOW-D|4|2|4|
 |7|neg control|4|0|6|
 |8|pos control|4|1|5|
+
 - Put in PCR program and geled the next day
 - Made p47 master mix on ice:
   - 1ul 10X NEB taq buffer * 8.8 = 8.8ul
@@ -42,6 +46,7 @@ title: Getting RPL11 to Amplify Gel Extracted Samples
   - 0.1ul NEB Taq * 8.8ul = 0.88ul
   - 0.4ul molecular grade water * 8.8 = 3.52ul
 - Added master mix, DNA, and water to strip tubes. Samples with "2" next to them had twice the amount of DNA added to them (~16-18ng total), and samples with the "D" were the 1:10 diluted samples (0.8-0.9ng)
+
 |tube #|sample|ul p47 MM|ul DNA|ul water|
 |---|---|---|---|---|
 |1|3mLB-150-2|4|2|4|
@@ -52,6 +57,7 @@ title: Getting RPL11 to Amplify Gel Extracted Samples
 |6|3mLB-LOW-D|4|2|4|
 |7|neg control|4|0|6|
 |8|pos control|4|1|5|
+
 - Put in PCR program and geled the next day
 - Next day a 1% gel was run for ~30 minutes at 90V
 - This gel came out really fuzzy and hard to read, it is not clear if there is primer dimer for RPL11 or actual amplification. I decided after this to go forward only troubleshooting the RPL11 amplification and also to run all my gels on 2% agarose to actually separate out something so small like primer dimer and a 137bp product
@@ -69,6 +75,7 @@ title: Getting RPL11 to Amplify Gel Extracted Samples
   - 0.1ul NEB Taq * 8.8ul = 0.88ul
   - 0.4ul molecular grade water * 8.8 = 3.52ul
 - Added master mix, DNA, and water to strip tubes. Samples with "D-2" next to them had twice the amount of diluted DNA added to them (~1.6-1.8ng total), and samples with the "D" were the 1:10 diluted samples (0.8-0.9ng)
+
 |tube #|sample|ul RPL11 MM|ul DNA|ul water|
 |---|---|---|---|---|
 |1|3mLB-150-D|4|2|4|
@@ -79,6 +86,7 @@ title: Getting RPL11 to Amplify Gel Extracted Samples
 |6|3mLB-LOW-2|4|2|4|
 |7|neg control|4|0|6|
 |8|pos control|4|1|5|
+
 - Put in PCR program and geled the next day
 - Next day a 2% gel was run for ~30 minutes at 90V
 - Gel came out bad, could see the positive control but nothing else. I also poured the gel way too thick
@@ -98,6 +106,7 @@ title: Getting RPL11 to Amplify Gel Extracted Samples
   - 0.8ul molec grade water * 7.7 = 6.16ul
 - Added master mix, DNA, and water to strip tubes. Samples with "D-2" next to them had twice the amount of diluted DNA added to them (~1.6-1.8ng total), and samples with the "D" were the 1:10 diluted samples (0.8-0.9ng)
 - I'm not sure where my calculations got a little off, I had to add a lot of water in per sample to make the reaction volume 20ul per sample
+
 |tube #|sample|ul RPL11 MM|ul DNA|ul water|
 |---|---|---|---|---|
 |1|3mLB-150-D-2|8|2|10|
@@ -107,10 +116,12 @@ title: Getting RPL11 to Amplify Gel Extracted Samples
 |5|3mLB-LOW-D|8|2|12|
 |6|neg control|8|0|12|
 |7|pos control|8|1|11|
+
 - Made master mix for GoTaq, 10ul reaction volume
   - 5ul GoTaq (2X) * 10 = 50ul
   - 4ul molecular grade water * 10 = 40ul
 - Added master mix, DNA, and water to strip tubes
+
 |tube #|sample|ul GoTaq MM|ul DNA|ul water|
 |---|---|---|---|---|
 |8|3mLB-150|9|1|0|
@@ -122,6 +133,7 @@ title: Getting RPL11 to Amplify Gel Extracted Samples
 |14|2mL HMW|9|1|0|
 |15|neg control|9|0|1|
 |16|pos control|9|1|0|
+
 - These were placed in the same PCR thermocycler with the regular PCR program
 - 95 degrees C 3 minutes
 - **95 degrees C 30 seconds**
@@ -140,6 +152,7 @@ title: Getting RPL11 to Amplify Gel Extracted Samples
   - 0.1ul NEB Taq * 8.8ul = 0.88ul
   - 0.4ul molecular grade water * 8.8 = 3.52ul
 - Added master mix, DNA, and water to strip tubes
+
 |tube #|sample|ul RPL11 MM|ul DNA|ul water|
 |---|---|---|---|---|
 |1|3mL|8|1|1|
@@ -148,6 +161,7 @@ title: Getting RPL11 to Amplify Gel Extracted Samples
 |4|3mLB-LOW-D|8|2|0|
 |6|neg control|8|0|2|
 |7|pos control|8|1|1|
+
 - Placed these in a slightly modified PCR:
   - 95 degrees C 3 minutes
   - **95 degrees C 30 seconds**
