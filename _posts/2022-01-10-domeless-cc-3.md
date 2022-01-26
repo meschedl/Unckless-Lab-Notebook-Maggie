@@ -9,7 +9,7 @@ title: Week of 20220110 Cell Culture Preparation - Domeless
 - Made fresh yeast paste
 - Then that afternoon, made 2 apple juice yeast plates with 2 steaks of yeast on each plate
 
-### 20220111 Setting up IMD null Flies to Lay
+### 20220111 Setting up Domless Flies to Lay
 
 - Set up 6 vials of Domeless flies to lay on the yeast plate at about 2pm
 
