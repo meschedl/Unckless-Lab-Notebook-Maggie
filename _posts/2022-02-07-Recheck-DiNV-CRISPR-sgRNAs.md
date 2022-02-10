@@ -1,0 +1,38 @@
+---
+layout: post
+title: Expanded CRISPR Guide RNA Planning and Design
+---
+
+## Re-Checking Guide RNA Sites in DiNV Genome
+
+
+**sgRNAs and their BLAST results to the DiNV genome**
+
+BLAST parameters:
+- Using the sgRNA sequence with the PAM site
+- Using D. virilis genome
+- Using RegSeq genome database only
+- Filter to e value of 0 to 10 only (or if there were more than 20, only looked at between 0 and 1)
+
+Then: Look through each entry and see if there are any BLAST hits that include the 23bp, meaning that the entire PAM site is there, which means there is a chance of the Cas9 cutting.
+
+|Site set #|bp region|Site #|activity score| direction|bp with PAM|BLAST GGG|BLAST TGG| BLAST AGG| BLAST CGG|Notes|
+|---|---|---|---|---|---|---|---|---|---|---|
+|1|77kb|86||reverse|5' ACACAAGTGTTGTTATACGA**TGG** 3' | None |1 hit with 4.8 E value, 100% identity, 14bp long, includes TGG PAM|None|None
+|1|77kb|92||forward|5' AAAAAATGCACTAAAACACA**GGG** 3'|No hits with below 10 E value including GGG PAM|None|1 hit with 4.8 E value, 17/18 identity, AGG PAM|None
+|1|77kb|26||reverse|5' TGTATTGTCAGTGTGGGAGA**TGG** 3'|1 hit with 0.077 E value, 17/17 identity, GGG PAM. 3 hits with 4.8 E value, 14/14 identity, GGG PAM. |1 hit with 0.077 E value, 100% identity, 17bp long, includes TGG PAM. 2 hits with 4.8 E value, 100% identity, 14bp long, includes PAM|3 hits with 4.8 E value, 100% identity, 14bp long, includes PAM|1 hit with 4.8 E value, 100% identity, 14bp long, includes PAM
+|1|77kb|73||reverse|5' ATCTAAATAAATACAATCGA**GGG** 3'|No hits with below 10 E value including the GGG PAM|None|None|1 hit with 1.2 E value, 15/15 identity, includes CGG PAM|
+|2|45kb|44|0.667|reverse|5' GGGTGTGTGTCTATGCATTG**GGG** 3'|1 hit  at 4.8 E. value, 20/22bp identity, includes GGG PAM. | A few with 4.8 E value, 14/14 identity, includes PAM (See image)|None|None|
+|2|45kb|54|0.662|reverse|5' TGTGTGTGTGTGTAGTTGGG**GGG** 3'|2 hits with 0.005 E value 22/23bp identity, GGG PAM. ||||very repetitive, might not be good|
+|2|45kb|24|0.638|reverse|5' GCGCATGTGTATATTTACCA**GGG** 3'|2 hits at 4.8 E value, 14/14 identity, GGG PAM|None|1 hit with 4.8 E vlaue, 14/14 identity, includes PAM|None|
+|2|45kb|27|0.632|reverse|5' CGCAACACACCAAAATACGA**TGG** 3'|1 hit with 4.8 E vlaue, 14/14 identity, includes PAM|1 hit at 1.2 E value, 15/15 identity, TGG PAM, 1 hit at 4.8 E value, 14/14 identity, TGG PAM|None|None|
+|3|75kb|32|0.784|forward|5' GTGACCATACACACACACAG**TGG** 3'||1 hit at 0.005 E value, 19/19 identity, TGG PAM. 1 hit at 0.02 E value, 18/18 identity, TGG PAM|||too many to go to 10|
+|3|75kb|42|0.718|forward|5' CAACTCGATAGAAGTCGACG**GGG** 3'|1 hit at 4.8 E value, 14/14 identity, GGG PAM. ||||very few results
+|3|75kb|61|0.683|reverse|5' TGTTCGAGAGAGAGATTGAG**GGG** 3'|1 hit at 0.077 E value, 17/17 identity, GGG PAM. 2 hits at 0.3 E value, 16/16 identity, GGG PAM
+|3|75kb|40|0.682|forward|5' CCCAACTCGATAGAAGTCGA**CGG** 3'||||1 hit at 4.8 E value, 14/14 identity, CGG PAM|
+|3|75kb|78|0.679|reverse|5' ACTAGTCTAACACTATTCCG**AGG** 3'|||None|
+|4|130kb|40|0.713|forward|5' CGTCGATATTGGTCACCCAG**AGG** 3'|||None|
+|4|130kb|42|0.701|forward| 5' TCGATATTGGTCACCCAGAG**GGG** 3'|1 hit at 4.8 E value, 14/14 identity, GGG PAM|
+|4|130kb|22|0.675|reverse| 5' AAAATGGCAAAAATCGAGCT**CGG** 3'||||1 hit at 4.8 E value, 14/14 identity, CGG PAM. |
+|4|130kb|43|0.667|forward|5' CGATATTGGTCACCCAGAGG**GGG** 3'|1 hit at 4.8 E value, 1/14 identity, GGG PAM|
+|4|130kb|53|0.666|reverse|5' ATACATATACACTTGATGGG**TGG** 3'||1 hit at 4.8 E value, 1/14 identity, TGG PAM|
