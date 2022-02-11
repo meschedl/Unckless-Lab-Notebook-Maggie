@@ -33,8 +33,8 @@ Then: Look through each entry and see if there are any BLAST hits that include t
 |3|75kb|78|0.679|reverse|5' ACTAGTCTAACACTATTCCG**AGG** 3'|No hits with below 10 E value including GGG PAM|No hits with below 10 E value including TGG PAM|No hits with below 10 E value including AGG PAM|No hits with below 10 E value including CGG PAM| No PAM hits at all!|
 |4|130kb|40|0.713|forward|5' CGTCGATATTGGTCACCCAG**AGG** 3'|No hits with below 10 E value including GGG PAM|No hits with below 10 E value including TGG PAM|No hits with below 10 E value including AGG PAM|1 hit at 4.8 E value, 14/14 identity, CGG PAM| very few results|
 |4|130kb|42|0.701|forward| 5' TCGATATTGGTCACCCAGAG**GGG** 3'|1 hit at 4.8 E value, 14/14 identity, GGG PAM|No hits with below 10 E value including TGG PAM|2 hits at 1.2 E value, 15/15 identity, includes AGG PAM|No hits with below 10 E value including CGG PAM|
-|4|130kb|22|0.675|reverse| 5' AAAATGGCAAAAATCGAGCT**CGG** 3'||||1 hit at 4.8 E value, 14/14 identity, CGG PAM. |
-|4|130kb|43|0.667|forward|5' CGATATTGGTCACCCAGAGG**GGG** 3'|1 hit at 4.8 E value, 14/14 identity, GGG PAM|
+|4|130kb|22|0.675|reverse| 5' AAAATGGCAAAAATCGAGCT**CGG** 3'|1 hit at 4.8 E value, 14/14 identity, GGG PAM|No hits with below 10 E value including TGG PAM|No hits with below 10 E value including AGG PAM|1 hit at 4.8 E value, 14/14 identity, CGG PAM. |
+|4|130kb|43|0.667|forward|5' CGATATTGGTCACCCAGAGG**GGG** 3'|1 hit at 4.8 E value, 14/14 identity, GGG PAM|No hits with below 10 E value including TGG PAM|No hits with below 10 E value including AGG PAM|No hits with below 10 E value including CGG PAM|very few results|
 |4|130kb|53|0.666|reverse|5' ATACATATACACTTGATGGG**TGG** 3'||1 hit at 4.8 E value, 14/14 identity, TGG PAM|
 
 
@@ -43,6 +43,7 @@ Then: Look through each entry and see if there are any BLAST hits that include t
 77kb Region (original from grant): site set 1
 - Intergenic region: 1,727bp
 - No repeats within region
+- GC% in intergenic region: 26%
 - Flanking genes:
   - gp053 189bp
   - gp054 237bp
@@ -55,6 +56,7 @@ Then: Look through each entry and see if there are any BLAST hits that include t
 - Entire intergenic region between closest genes: 5,081bp
   - 2,018bp on left side
   - 1,904bp on the right side
+- GC% in entire intergenic region: 28%
 - 10 repeats regions within the larger region, but none within the CRISPR site region
 - Flanking genes:
   - gp30 900bp
@@ -68,6 +70,7 @@ Then: Look through each entry and see if there are any BLAST hits that include t
 - Entire intergeic region between closest genes: 1,948bp
   - 389bp left side
   - 424bp right side
+- GC% in entire intergenic region: 32%
 - 2 repeat regions within the larger region, but none within the CRISPR site region
 - Flanking genes:
   - gp52 1,22bp
@@ -81,6 +84,7 @@ Then: Look through each entry and see if there are any BLAST hits that include t
 - Entire intergenic region between closest genes: 2,822bp
   - 123bp left side
   - 1589bp right side
+- GC% in entire intergenic region: 30%
 - 5 repeat regions within the larger region, but none within the CRISPR site region
 - Flanking genes:
   - gp88 657bp
