@@ -35,7 +35,7 @@ Then: Look through each entry and see if there are any BLAST hits that include t
 |4|130kb|42|0.701|forward| 5' TCGATATTGGTCACCCAGAG**GGG** 3'|1 hit at 4.8 E value, 14/14 identity, GGG PAM|No hits with below 10 E value including TGG PAM|2 hits at 1.2 E value, 15/15 identity, includes AGG PAM|No hits with below 10 E value including CGG PAM|
 |4|130kb|22|0.675|reverse| 5' AAAATGGCAAAAATCGAGCT**CGG** 3'|1 hit at 4.8 E value, 14/14 identity, GGG PAM|No hits with below 10 E value including TGG PAM|No hits with below 10 E value including AGG PAM|1 hit at 4.8 E value, 14/14 identity, CGG PAM. |
 |4|130kb|43|0.667|forward|5' CGATATTGGTCACCCAGAGG**GGG** 3'|1 hit at 4.8 E value, 14/14 identity, GGG PAM|No hits with below 10 E value including TGG PAM|No hits with below 10 E value including AGG PAM|No hits with below 10 E value including CGG PAM|very few results|
-|4|130kb|53|0.666|reverse|5' ATACATATACACTTGATGGG**TGG** 3'||1 hit at 4.8 E value, 14/14 identity, TGG PAM|
+|4|130kb|53|0.666|reverse|5' ATACATATACACTTGATGGG**TGG** 3'|No hits with below 10 E value including GGG PAM|1 hit at 4.8 E value, 14/14 identity, TGG PAM|
 
 
 **Characteristics of sgRNA locations**
