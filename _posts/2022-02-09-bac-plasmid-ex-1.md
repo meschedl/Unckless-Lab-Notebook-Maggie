@@ -74,7 +74,7 @@ title: Plasmid Midi Prep on BACs
 - Added 3.85mL of 100% isopropanol to each tube and inverted to mix (tubes had ~5.5mL volume, 0.7 volumes is 3.85mL)
 - Centrifgued tubes for 45 minutes at 10,400rcf at 4 degrees C. Made sure they were facing a certain way to look for the pellet
 - Looked for pellets afterwards - not really sure what to look for. The protocol says the pellet should be "glassy." Additionally because the centrifuge is fixed angle, it's not gong to be at the base of the tube. I saw these streaks of clear something on each of the tubes. But the more I look at them the more I think they are stress cracks in the tube bc it was at its maximum speed
-![](https://raw.githubusercontent.com/meschedl/Unckless-Lab-Notebook-Maggie/master/images/20220209-bac-ex-pellet).jpeg)
+![](https://raw.githubusercontent.com/meschedl/Unckless-Lab-Notebook-Maggie/master/images/20220209-bac-ex-pellet.jpeg)
 - Decanted the supernatant next to the centrifuge in the Egan lab
 - Added 2mL of 70% ethanol to each tube
 - Placed tubes back in the centrifuge for 30 min, 10,400rcf at 4 degrees C, same tube orientation
