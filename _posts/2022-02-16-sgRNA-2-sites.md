@@ -1,6 +1,6 @@
 ---
 Layout: post
-Title: sgRNA Design, Picking Site and Considering Nickases
+Title: Picking sgRNA Site, and Designing sgRNA Primers and Cas9 Digest Primers
 ---
 
 ## Picking 2 DiNV Regions for CRISPR Sites, Picking 2 sgRNAs From Each
