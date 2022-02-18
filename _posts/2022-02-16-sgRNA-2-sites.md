@@ -9,7 +9,7 @@ Want to pick two regions of the DiNV genome to try for using CRISPR. And from ea
 
 ### sgRNA Choice
 
-**"77kb Region"**
+**77kb Region**
 - ~76,800kb-78,400kb
 - Intergenic region: 1,727bp
 - No repeats within region
