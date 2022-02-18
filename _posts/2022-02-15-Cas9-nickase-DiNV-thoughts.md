@@ -146,4 +146,4 @@ title: Considering Using Cas9 Nickases for DiNV BAC CRISPR
   - Both have off-target hits in the DiNV genome
 
 
-I think it's best not to pick any that have off-target hits. Or probably one of the guides with an activity score below 0.5. This leaves about 10 pairs of sgRNAs left. 
+I think it's best not to pick any that have off-target hits. Or probably one of the guides with an activity score below 0.5. This leaves about 10 pairs of sgRNAs left.
