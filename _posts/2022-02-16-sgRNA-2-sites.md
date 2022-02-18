@@ -147,6 +147,6 @@ Determining the banding pattern with the Cas9 digest assay
   - These fragments are definitely different enough to be easily seen on a gel
 - sgRNA 53 cuts at about 130,182bp
   - Subtract the cutsite bp and the end to end primer locations to get the size fragments
-  - 130,182 - 128,180 = 200,2bp
+  - 130,182 - 128,180 = 2,002bp
   - 131,117 - 130,182 = 935bp
   - These fragments are definitely different enough to be easily seen on a gel
