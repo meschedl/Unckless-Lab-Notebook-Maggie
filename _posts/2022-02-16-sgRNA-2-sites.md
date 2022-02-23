@@ -125,7 +125,7 @@ Now to determine what the banding pattern would be in a digest assay where Cas9 
 
 **I needed to design primers for the 130kb region, I used the same resources as I used previously ([Geneious Primer Design Tutorial](https://www.geneious.com/tutorials/primer-design-prime/), [guidelines for primer design from Addgene](https://www.addgene.org/protocols/primer-design/) and [Zymo Research](https://www.zymoresearch.com/blogs/blog/how-to-design-primers-for-pcr-experiments))**
 
-- Candidate 2 for forward primer: 128,180 - 128,202bp (130-DiNV-F-2)
+- Candidate 1 for forward primer: 128,180 - 128,202bp (130-DiNV-F-1)
   - Length: 23nt
   - Tm: 59 degrees C
   - GC content: 39.1%
@@ -147,6 +147,34 @@ Determining the banding pattern with the Cas9 digest assay
   - These fragments are definitely different enough to be easily seen on a gel
 - sgRNA 53 cuts at about 130,182bp
   - Subtract the cutsite bp and the end to end primer locations to get the size fragments
-  - 130,182 - 128,180 = 2,002bp
+  - 130,182 - 128,180 = 2,002bp|
   - 131,117 - 130,182 = 935bp
   - These fragments are definitely different enough to be easily seen on a gel
+
+**Rob thinks we should try two different primer pairs for each region (77kb or 130kb) just in case one pair doesn't work right. The 4 pairs are here and have their respective Cas9 fragments indicated:**
+
+|Region|Primer Pair|Fragment Length|sgRNA A from region| sgRNA A fragment 1| sgRNA A fragment 2| sgRNA B from region| sgRNA B fragment 1 size|sgRNA B fragment 2 size|
+|---|---|---|---|---|---|---|---|---|
+|77kb|77-DiNV-F-1 and 77-DiNV-R-1| 1,414bp|sgRNA 86-77|876bp|538bp|sgRNA 92-77|1,106bp|308bp|
+|77kb|77-DiNV-F-2 and 77-DiNV-R-2|1,891bp|sgRNA 86-77|699bp|1,192bp|sgRNA 92-77|469bp|1,422bp|
+|130kb|130-DiNV-F-1 and 130-DiNV-R-1|2,937bp|sgRNA 42-130|2,487bp|450bp|gRNA 53-130|2,002bp|935bp|
+|130kb|130-DiNV-F-2 and 130-DiNV-R-2|2,356bp|sgRNA 42-130|1,000bp|1,356bp|sgRNA 53-130|1,485bp|871bp|
+
+**Other primer info and sequences:**
+
+- 77-DiNV-F-1
+  - CATCGCGCACCCATCTCTAA
+  - 76,921 - 76,940bp
+  - Tm 60.2 degrees C
+- 77-DiNV-R-1
+  - TTCTTGATGTAGTTCTGCTTACGT
+  - 78,312 - 78,335bp
+  - 58.2 degrees C
+- 130-DiNV-F-2
+  - ATGCTTCTGATTCATTTCGGTTG
+  - 129,289 - 129,311bp
+  - Tm 58 degrees C
+- 130-DiNV-R-2
+  - TGGAATAGTATCCCACCCCAA
+  - 131,647 - 131,667bp
+  - Tm 57.8  degrees C
