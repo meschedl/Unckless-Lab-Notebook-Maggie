@@ -73,4 +73,7 @@ title: Plasmid Midi Prep on pBeloBAC11
 - I took 3ul from each and ran on a 1% gel at 100V for 35 minutes:
 ![](https://raw.githubusercontent.com/meschedl/Unckless-Lab-Notebook-Maggie/master/images/20220223-bac-gel.jpeg)
 
-I'm not entirely sure what to make of this gel, these are not exactly the right sizes. There also seems to be maybe some genomic DNA contamination. However these are circular so they may not run through the gel like a linear fragment might. 
+I'm not entirely sure what to make of this gel, these are not exactly the right sizes. There also seems to be maybe some genomic DNA contamination. However these are circular so they may not run through the gel like a linear fragment might.
+
+I ran another gel with two ladders and this shows more accurate sizes, however there still looks like there are 2 bands, particularly for pBeloBAC11.
+![](https://raw.githubusercontent.com/meschedl/Unckless-Lab-Notebook-Maggie/master/images/20220225-bac-gel.jpeg)
