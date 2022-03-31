@@ -26,9 +26,6 @@ title: Testing PCRs for Amplifying DiNV CRISPR/Cas9 Regions
 - Make 1:10 dilutions for the PCR primers in new tubes
   - 90ul molecular grade water
   - 10ul 100uM primer
-- Made 1:100 dilutions for the sgRNA primers in new tubes:
-  - 990ul molecular grade water
-  - 10ul 100uM primer
 - Vortexed diluted tubes, spun down, and kept on ice
 - All tubes stored in -20 freezer in primer box
 
@@ -197,5 +194,5 @@ Success! The PCR worked! The product is supposed to be 1,414bp long, and this lo
   - _72 degrees C 5 min_
   - 12 degrees C hold
   - Italic lines are cycled 34 times
-- The program ran for 2 hours and 44 minutes 
+- The program ran for 2 hours and 44 minutes
 - Tubes were placed in the fridge afterwards
