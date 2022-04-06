@@ -196,3 +196,54 @@ Success! The PCR worked! The product is supposed to be 1,414bp long, and this lo
   - Italic lines are cycled 34 times
 - The program ran for 2 hours and 44 minutes
 - Tubes were placed in the fridge afterwards
+
+**20220401 130-DiNV-1 PCR Again**
+- Here I only used the 2mL sample as the sample because I know it should work
+- Made master mix on ice:
+  - 5mL GoTaq * 2.2 = 11ul
+  - 0.25ul 130-F-1 * 2.2 = 0.55ul
+  - 0.25ul 130-R-1 * 2.2 = 0.55ul
+  - 3.5 molec grade water * 2.2 = 7.7ul
+- Vortexed and spun down mix, kept on ice
+- Assembled PCR strip tubes on ice:
+  - Added 9ul master mix to each tube
+  - Added 1ul DNA to the sample tubes
+  - Added 1ul molec grade water to the negative control tube
+- Vortexed and spun down tubes
+- Placed tubed in the thermocycler:
+  - 95 degrees C 2 min
+  - 95 degrees C 30 sec
+  - _52 degrees C 1 minute_
+  - _72 degrees C 3 minutes_
+  - _72 degrees C 5 min_
+  - 12 degrees C hold
+  - Italic lines are cycled 34 times
+- The program ran for 3 hours and 20 minutes
+- Tubes were placed in the fridge afterwards
+
+**20220401 130-DiNV-2 PCR Again**
+- Here I only used the 2mL sample as the sample because I know it should work
+- Made master mix on ice:
+  - 5mL GoTaq * 2.2 = 11ul
+  - 0.25ul 130-F-2 * 2.2 = 0.55ul
+  - 0.25ul 130-R-2 * 2.2 = 0.55ul
+  - 3.5 molec grade water * 2.2 = 7.7ul
+- Vortexed and spun down mix, kept on ice
+- Assembled PCR strip tubes on ice:
+  - Added 9ul master mix to each tube
+  - Added 1ul DNA to the sample tubes
+  - Added 1ul molec grade water to the negative control tube
+- Vortexed and spun down tubes
+- Placed tubed in the thermocycler:
+  - 95 degrees C 2 min
+  - 95 degrees C 30 sec
+  - _52 degrees C 1 minute_
+  - _72 degrees C 2 minutes 30 seconds_
+  - _72 degrees C 5 min_
+  - 12 degrees C hold
+  - Italic lines are cycled 34 times
+- The program ran for 3 hours and 2 minutes
+- Tubes were placed in the fridge afterwards
+
+**20220404 Gel**
+- The 77-2, 130-1, and 130-2 PCRs were run on a 1% gel for 35 minutes at 90V 
