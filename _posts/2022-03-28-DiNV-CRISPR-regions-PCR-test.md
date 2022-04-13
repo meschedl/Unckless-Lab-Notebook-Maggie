@@ -246,4 +246,154 @@ Success! The PCR worked! The product is supposed to be 1,414bp long, and this lo
 - Tubes were placed in the fridge afterwards
 
 **20220404 Gel**
-- The 77-2, 130-1, and 130-2 PCRs were run on a 1% gel for 35 minutes at 90V 
+- The 77-2, 130-1, and 130-2 PCRs were run on a 1% gel for 35 minutes at 90V
+![](https://raw.githubusercontent.com/meschedl/Unckless-Lab-Notebook-Maggie/master/images/20220404-gel.jpeg)
+
+There is proper amplification of 77-DiNV-2, but none for either of the 130 regions. There is a small amount of off target amplification for the 77 amplicon, I can hopefully get rid of that by lowering the primer concentration
+
+**20220405 Retry 130 1 and 2**
+- I tried both the 2mL sample and the 3mL sample, and lowered the annealing temp to 50 degrees C
+- 130-DiNV-1
+- Made master mix on ice:
+  - 5mL GoTaq * 3.3 = 16.5ul
+  - 0.25ul 130-F-1 * 3.3 = 0.825ul
+  - 0.25ul 130-R-1 * 3.3 = 0.825ul
+  - 3.5 molec grade water * 3.3 = 11.55ul
+- Vortexed and spun down mix, kept on ice
+- Assembled PCR strip tubes on ice:
+  - Added 9ul master mix to each tube
+  - Added 1ul DNA to the sample tubes
+  - Added 1ul molec grade water to the negative control tube
+- Vortexed and spun down tubes
+- Placed tubed in the thermocycler:
+  - 95 degrees C 2 min
+  - 95 degrees C 30 sec
+  - _50 degrees C 1 minute_
+  - _72 degrees C 3 minutes_
+  - _72 degrees C 5 min_
+  - 12 degrees C hold
+  - Italic lines are cycled 34 times
+- Tubes were placed in the fridge afterwards
+- 130-DiNV-2
+- Made master mix on ice:
+  - 5mL GoTaq * 3.3 = 16.5ul
+  - 0.25ul 130-F-2 * 3.3 = 0.825ul
+  - 0.25ul 130-R-2 * 3.3 = 0.825ul
+  - 3.5 molec grade water * 3.3 = 11.55ul
+- Vortexed and spun down mix, kept on ice
+- Assembled PCR strip tubes on ice:
+  - Added 9ul master mix to each tube
+  - Added 1ul DNA to the sample tubes
+  - Added 1ul molec grade water to the negative control tube
+- Vortexed and spun down tubes
+- Placed tubed in the thermocycler:
+  - 95 degrees C 2 min
+  - 95 degrees C 30 sec
+  - _50 degrees C 1 minute_
+  - _72 degrees C 2 minutes and 30 seconds_
+  - _72 degrees C 5 min_
+  - 12 degrees C hold
+  - Italic lines are cycled 34 times
+- Tubes were placed in the fridge afterwards
+- Then a 1% gel was run for 35 minutes at 90V:
+![](https://raw.githubusercontent.com/meschedl/Unckless-Lab-Notebook-Maggie/master/images/20220405-gel.jpeg)
+
+Again no proper amplification...
+
+**20220405 Retry 130-DiNV-2 with Gradient**
+- I talked to Kistie and she helped me set up a gradient PCR on the machine to try different annealing temperatures
+- She also said that, at least for the 130-DiNV-2 primer, it may have too many Cs and hold on too tight to the DNA, and that I should lower my annealing time to 30 seconds
+- So I decided to do a gradient from 40 degrees to 50 degrees and put samples at a couple of different annealing temperatures:
+  - 40 degrees - tubes A
+  - 41.9 degrees - tubes B
+  - 43.9 degrees - tubes C
+  - 46.2 degrees - tubes D
+  - 47.9 degrees - tubes E
+  - 49.2 degrees - tubes F
+- Each of these temperatures will get a 2mL sample and a negative control
+- Made master mix on ice:
+  - 5mL GoTaq * 13 = 65ul
+  - 0.25ul 130-F-2 * 13 = 3.25ul
+  - 0.25ul 130-R-2 * 13 = 3.25ul
+  - 3.5 molec grade water * 13 = 45.5ul
+- Vortexed and spun down mix, kept on ice
+- Assembled PCR strip tubes on ice:
+  - Added 9ul master mix to each tube
+  - Added 1ul DNA to the sample tubes
+  - Added 1ul molec grade water to the negative control tube
+- Vortexed and spun down tubes
+- Placed tubed in the thermocycler:
+  - 95 degrees C 2 min
+  - 95 degrees C 30 sec
+  - _gradient degrees C 30 seconds_
+  - _72 degrees C 2 minutes and 30 seconds_
+  - _72 degrees C 5 min_
+  - 12 degrees C hold
+  - Italic lines are cycled 34 times
+- Tubes were placed in the fridge afterwards
+- Then a 1% gel was run for 35 minutes at 90V:
+![](https://raw.githubusercontent.com/meschedl/Unckless-Lab-Notebook-Maggie/master/images/20220406-gel.jpeg)
+
+Basically nothing amplified in any of these, except I saw something in the 40 degree sample. It was very faint and didn't show up well in the picture. I want to try more cycles with that temp
+
+**20220407 Retry 130-DiNV-2 with 40 cycles**
+- Made master mix on ice:
+  - 5mL GoTaq * 2.2 = 11ul
+  - 0.25ul 130-F-2 * 2.2 = 0.55ul
+  - 0.25ul 130-R-2 * 2.2 = 0.55ul
+  - 3.5 molec grade water * 2.2 = 7.7ul
+- Vortexed and spun down mix, kept on ice
+- Assembled PCR strip tubes on ice:
+  - Added 9ul master mix to each tube
+  - Added 1ul DNA to the sample tube
+  - Added 1ul molec grade water to the negative control tube
+- Vortexed and spun down tubes
+- Placed tubed in the thermocycler:
+  - 95 degrees C 2 min
+  - 95 degrees C 30 sec
+  - _40 degrees 30 seconds_
+  - _72 degrees C 2 minutes and 30 seconds_
+  - _72 degrees C 5 min_
+  - 12 degrees C hold
+  - Italic lines are cycled 40 times
+- Tubes were placed in the fridge afterwards
+- Then a 1% gel was run for 35 minutes at 90V:
+![](https://raw.githubusercontent.com/meschedl/Unckless-Lab-Notebook-Maggie/master/images/20220407-gel.jpeg)
+
+There is nothing that showed up, honestly I probably got a tiny faint thing show up in the 20220405 gel because it stained for 1.5hours.
+
+At this point I stopped trying to get 130-DiNV-2 to work because it wouldn't amplify in any circumstance. I decided to try the same gradient on 130-DiNV-1.
+
+**20220411 Try 130-DiNV-1 with Gradient**
+- Trying the same gradient as above:
+  - 40 degrees - tubes A
+  - 41.9 degrees - tubes B
+  - 43.9 degrees - tubes C
+  - 46.2 degrees - tubes D
+  - 47.9 degrees - tubes E
+  - 49.2 degrees - tubes F
+- Each of these temperatures will get a 2mL sample and a negative control
+- Made master mix on ice:
+  - 5mL GoTaq * 13 = 65ul
+  - 0.25ul 130-F-2 * 13 = 3.25ul
+  - 0.25ul 130-R-2 * 13 = 3.25ul
+  - 3.5 molec grade water * 13 = 45.5ul
+- Vortexed and spun down mix, kept on ice
+- Assembled PCR strip tubes on ice:
+  - Added 9ul master mix to each tube
+  - Added 1ul DNA to the sample tubes
+  - Added 1ul molec grade water to the negative control tube
+- Vortexed and spun down tubes
+- Placed tubed in the thermocycler:
+  - 95 degrees C 2 min
+  - 95 degrees C 30 sec
+  - _gradient degrees C 30 seconds_
+  - _72 degrees C 3 minutes_
+  - _72 degrees C 5 min_
+  - 12 degrees C hold
+  - Italic lines are cycled 34 times
+- Tubes were placed in the fridge afterwards
+- Then a 1% gel was run for 35 minutes at 90V:
+![](https://raw.githubusercontent.com/meschedl/Unckless-Lab-Notebook-Maggie/master/images/202200411-gel.jpeg)
+
+Well here I got some things to amplify but they are all off target. The product is supposed to be ~3,000bp long. I might have to try making primers for this region again and making them amplify a smaller region. 
