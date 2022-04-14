@@ -70,4 +70,20 @@ I'll have to look through the BAC sequence, the homology arm sequence, the GFP s
   - 92-150-R: Pmel and Swal
   - 92-500-L: Pmel and Swal
   - 92-500-R: Pmel and Swal
-- So It looks like a blunt end restriction digest would work if we end up using the 130kb section as our homology section, no matter the spot. But we would only be able to use pBeloBAC11 as our BAC and use Pmel as the restriction site if we were going to use the 77kb region 
+- So It looks like a blunt end restriction digest would work if we end up using the 130kb section as our homology section, no matter the spot. But we would only be able to use pBeloBAC11 as our BAC and use Pmel as the restriction site if we were going to use the 77kb region
+
+
+**20220414 Relooking at REs with 45kb Region**
+
+- I want to check Pmel and Swal against the 150 and 500bp potential homology arm regions from the 45kb region
+- The updated list of homology arm sequences is [here](https://github.com/meschedl/Unckless_Lab_Resources/tree/main/BAC-DiNV/Homology_Arm_Sequences)
+- 0 cutters
+  - 24-150-L: Pmel and Swal
+  - 24-150-R: Pmel and Swal
+  - 24-500-L: Pmel and Swal
+  - 24-500-R: Pmel and Swal
+  - 44-150-L: Pmel and Swal
+  - 44-140-R: Pmel and Swal
+  - 44-500-L: Pmel and Swal
+  - 44-500-R: Pmel and Swal
+- These enzymes would not cut these homology arms 
