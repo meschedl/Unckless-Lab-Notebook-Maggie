@@ -90,3 +90,22 @@ The only questionable digestion would be for 45kb Region 43,784 F - 45,503 R wit
 
 I also went through an pulled out homology arm sequences from Geneious so we have them ready. All homology arm sequences are [here](https://github.com/meschedl/Unckless_Lab_Resources/tree/main/BAC-DiNV/Homology_Arm_Sequences)
 ![](https://raw.githubusercontent.com/meschedl/Unckless-Lab-Notebook-Maggie/master/images/45kb-HAs.png)
+
+**sgRNA primers for the 45kb Cas9 Sites**
+
+- Now that I've looked into 2 more Cas9 sites, I have to design the primers to make the sgRNAs for them
+- Again, I am using the [NEB protocol](https://www.neb.com/protocols/2016/05/11/engen-sqrna-synthesis-kit-s-pyogenes-protocol-e3322) for this
+- Select 20 nucleotide target sequence (not including the PAM (NGG) sequence)
+  - #24 : 5' GCGCATGTGTATATTTACCA 3'
+  - #44 : 5' GGGTGTGTGTCTATGCATTG 3'
+- Check input sequence for presence of "G" at the 5´ end. If there are no "G's" at the 5´ end, add one "G"
+  - Both have a G on the 5' end already
+- To the 5´ end; append T7 promoter sequence: TTCTAATACGACTCACTATA
+  - #24 : 5' **TTCTAATACGACTCACTATA**GCGCATGTGTATATTTACCA 3'
+  - #44 : 5' **TTCTAATACGACTCACTATA**GGGTGTGTGTCTATGCATTG 3'
+- To the 3´ end; append 14 nucleotide overlap sequence: GTTTTAGAGCTAGA
+  - #24 : 5' TTCTAATACGACTCACTATAGCGCATGTGTATATTTACCA**GTTTTAGAGCTAGA** 3'
+  - #44 : 5' TTCTAATACGACTCACTATAGGGTGTGTGTCTATGCATTG**GTTTTAGAGCTAGA** 3'
+- Check complete oligo sequence: 5´ TTCTAATACGACTCACTATAG(N)20GTTTTAGAGCTAGA 3´
+  - #24 : 5' **TTCTAATACGACTCACTATA**GCGCATGTGTATATTTACCA**GTTTTAGAGCTAGA** 3'
+  - #44 : 5' **TTCTAATACGACTCACTATA**GGGTGTGTGTCTATGCATTG**GTTTTAGAGCTAGA** 3'
