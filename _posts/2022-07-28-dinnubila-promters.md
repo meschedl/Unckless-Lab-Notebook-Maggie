@@ -126,5 +126,27 @@ I need to figure out a promoter to use to get GFP or RFP to express in innubila 
   - Because there is just so little overlap from the dmel promoter to the _innubila_ genome, I am just going to take this section of the _innubila_ genome and assume this is the promoter. I tried to make it similar size and similar overlap into the actual gene as dmel has
   ![](https://raw.githubusercontent.com/meschedl/Unckless-Lab-Notebook-Maggie/master/images/innubila-putative-actin5C-promoter.png)
   - [Sequnece link](https://github.com/meschedl/Unckless_Lab_Resources/blob/main/BAC-DiNV/promoter_seqs/innubila-putative-Actin5C-promoter.txt)
+  - This putative promoter is 2,401 bases
 - COPIA
+  - There are matches to all chromosomes here, this might be a good sign that this transposon promoter is also in _innubila_
+  - Looking closer at the BLAST hits, the largest one is is 78bp with a lot of miss-matches, ones that have less differences are more like ~59bp. The whole promoter is 280bp
+  - The longest "match" is 27,025,970 - 27,025,888 on the 2L chromosome. When looking at this region, there are no predicted genes around there. Without any other BLAST matches to anywhere near there, it's really hard to guess if there is a promoter somewhere in there. For now I am going to give up on this promoter
+- U6
+  - The top matches are for the X chromosome and the 3R chromosome. It's on the 3R chromosome in dmel
+  - Again this is not good, there are only small matches. The longest match is about 56 bases but it's not a very good one. The dmel promoter length is 421 bases. Again none of the separate matches are close to each other on the chromosomes
+  - I am not sure this is the right way to go about this. It might be helpful to find the U6 gene in _innubila_ and select a similar region around it that the dmel promoter uses
+- Ubiquitin/poly-ubiquitin
+  - This matches to 3L and 2L. Because it is on 3L in dmel, I'll consider those matches
+  - The long match on the 3L is 142 bases long with a lot of missmatches, from 6336331 to 6336189
+  - The shorter 3L match is 38 bases long and from 6334434 to 6334395. This one says it's near the feature "low quality protein ubiquitin c"
+  - These two regions are pretty close to each other so they might be close enough to be apart of the same promoter region
+  - The putative ubiquitin gene in _innubila_ (LOC117788806) has good BLAST hits to dmel ubiquitin-63e and ubiquitin-5e
+  ![](https://raw.githubusercontent.com/meschedl/Unckless-Lab-Notebook-Maggie/master/images/innubila-ubiquitin-overlap-promoter.png)
+  - The dmel promoter overlaps ~1,400 bases into the ubiquitin gene and ~150 bases in the gene next to it, and the whole promoter is 2,008 bases long. The two BLASTd regions are too far apart to match that exactly with _innubila_ but I can do something similar
+  ![](https://raw.githubusercontent.com/meschedl/Unckless-Lab-Notebook-Maggie/master/images/innubila-ubiquitin-putative-promoter.png)
+  - [Sequence link](https://github.com/meschedl/Unckless_Lab_Resources/blob/main/BAC-DiNV/promoter_seqs/innubila-putative-ubiquitin-promoter.txt)
+  - This putative promoter is 2,121 bases long
+- Tubulin
+  - Matches to all chromosomes except for 4, but the best match is 3R which is where it is on dmel
+  - On 3R there are some long matches that look promising. There is a 360 base match from 24390062 to 24389703. Then there is a 109 base match from 24387521 to 24387408. There is a 139 base match from 24389494 to 24389355. And there is a 152 base match from 24389288 to 24389139. These are all in the same region of the chromosome
   - 
