@@ -53,21 +53,23 @@ I need to figure out a promoter to use to get GFP or RFP to express in innubila 
   - Based on the BLAST, the promoter starts at 11891257 on the 2R chromosome and ends at 11893572
   - I went and looked on [FlyBase](https://flybase.org/reports/FBgn0284245) and this does match where the EF-1-alpha gene is, but interestingly it completely overlaps with the gene, it's basically the first ~2000 bases of the gene
   - I wasn't sure if that would mean it's not actually the promoter sequence, but this is the only lead I could find
-  - I downloaded the gene sequence from FlyBase and separate out the putative promoter sequence. The gene sequence goes from 11895135 to 11895762
+  - I downloaded the [gene sequence from FlyBase](https://flybase.org/decoratedfasta/FBgn0284245) and separate out the putative promoter sequence. The gene sequence goes from 11895135 to 11895762
   - Based off of the BLAST homology, the putative promoter starts 122 bases into the gene sequence, and ends 2437 bases in
-  - I used Bash to get rid of the spaces and new lines in the sequence:  
-  `sed 's/[[:blank:]]//g' dmel-E1-alpha.txt > dmel-E1-alpha2.txt`  
-  `awk 1 ORS='' dmel-E1-alpha2.txt > dmel-E1-alpha3.txt`
-  - Then I used python to separate out the actual promoter sequence (yes I know I could have done it all in either coding language)
+  - I used python to convert it all to uppercase, then remove the new lines. Then I separated out the actual promoter sequence
   ```
   import os
   os.chdir("/Users/maggieschedl/Desktop/")
-  alpha3 = open("dmel-E1-alpha3.txt", )
-  alpha3_contents = alpha3.read()
-  #print(alpha3_contents)
-  first112 = alpha3_contents[0:123]
-  #print(first112)
-  promoter = alpha3_contents[123:2191]
+  alpha = open("dmel-E1-alpha.txt", )
+  alpha_contents = alpha.read()
+  #print(alpha_contents)
+  upper = alpha_contents.upper() # make uppercase
+  # print(upper) # check uppercase
+  # remove new lines
+  alpha_contig = upper.replace('\n', '')
+  #print(alpha_contig)
+  first122 = alpha_contig[0:123]
+  #print(first122)
+  promoter = alpha_contig[123:2438]
   print(promoter)
   ```
   - This promoter is 2,315 bases long
@@ -125,6 +127,8 @@ I need to figure out a promoter to use to get GFP or RFP to express in innubila 
   ![](https://raw.githubusercontent.com/meschedl/Unckless-Lab-Notebook-Maggie/master/images/innubila-actin5C-promoter-overlap.png)
   - Because there is just so little overlap from the dmel promoter to the _innubila_ genome, I am just going to take this section of the _innubila_ genome and assume this is the promoter. I tried to make it similar size and similar overlap into the actual gene as dmel has
   ![](https://raw.githubusercontent.com/meschedl/Unckless-Lab-Notebook-Maggie/master/images/innubila-putative-actin5C-promoter.png)
+  - This is how it compares with the mRNA from the gene
+  ![](https://raw.githubusercontent.com/meschedl/Unckless-Lab-Notebook-Maggie/master/images/innubila-putative-Actin5C-promoter-mRNA.png)
   - [Sequnece link](https://github.com/meschedl/Unckless_Lab_Resources/blob/main/BAC-DiNV/promoter_seqs/innubila-putative-Actin5C-promoter.txt)
   - This putative promoter is 2,401 bases
 - COPIA
@@ -144,9 +148,29 @@ I need to figure out a promoter to use to get GFP or RFP to express in innubila 
   ![](https://raw.githubusercontent.com/meschedl/Unckless-Lab-Notebook-Maggie/master/images/innubila-ubiquitin-overlap-promoter.png)
   - The dmel promoter overlaps ~1,400 bases into the ubiquitin gene and ~150 bases in the gene next to it, and the whole promoter is 2,008 bases long. The two BLASTd regions are too far apart to match that exactly with _innubila_ but I can do something similar
   ![](https://raw.githubusercontent.com/meschedl/Unckless-Lab-Notebook-Maggie/master/images/innubila-ubiquitin-putative-promoter.png)
+  - This is how it compares with the mRNA from the gene
+  ![](https://raw.githubusercontent.com/meschedl/Unckless-Lab-Notebook-Maggie/master/images/innubila-putative-ubiquitin-promoter-mRNA.png)
   - [Sequence link](https://github.com/meschedl/Unckless_Lab_Resources/blob/main/BAC-DiNV/promoter_seqs/innubila-putative-ubiquitin-promoter.txt)
   - This putative promoter is 2,121 bases long
 - Tubulin
   - Matches to all chromosomes except for 4, but the best match is 3R which is where it is on dmel
-  - On 3R there are some long matches that look promising. There is a 360 base match from 24390062 to 24389703. Then there is a 109 base match from 24387521 to 24387408. There is a 139 base match from 24389494 to 24389355. And there is a 152 base match from 24389288 to 24389139. These are all in the same region of the chromosome
-  - 
+  - On 3R there are some long matches that look promising. There is a 360 base match from 24390062 to 24389703. Then there is a 109 base match from 24387521 to 24387408. There is a 139 base match from 24389494 to 24389355. And there is a 152 base match from 24389288 to 24389139. These are all in the same region of the chromosome, and some of them say they are near the tubulin alpha-1 chain feature
+  - In the _innubila_ genome, these are upstream or overlapping with LOC117793066 which when BLASTd to dmel matches very well with alpha-tubulin 84b and 85e
+  ![](https://raw.githubusercontent.com/meschedl/Unckless-Lab-Notebook-Maggie/master/images/innubila-tubulin-promoter-overlap.png)
+  - The promoter from dmel is 2,399 bases long, and overlaps heavily with the gene before it and a small amount with the tubulin gene. I can do that with the _innubila_ genome, but the promoter will be longer than the dmel one if I keep in all the BLAST matching sequences. I think it's important to keep those sequences in the promoter because they seem to be conserved for some reason
+  ![](https://raw.githubusercontent.com/meschedl/Unckless-Lab-Notebook-Maggie/master/images/innubila-tubulin-putative-promoter.png)
+  - This is how it compares with the mRNA from the gene
+  ![](https://raw.githubusercontent.com/meschedl/Unckless-Lab-Notebook-Maggie/master/images/innubila-putative-tubulin-promoter-mRNA.png)
+  - [Sequence link](https://github.com/meschedl/Unckless_Lab_Resources/blob/main/BAC-DiNV/promoter_seqs/innubila-putative-tubulin-promoter.txt)
+  - This putative promoter is 2,706 bases long
+- Ef-1-alpha
+  - This had a couple of matches, but the strongest one is to 2R, which is where this gene is in dmel so I'm going to look here
+  - The longest match is ~90 bases from 3089592 to 3089504 on the 2R chromosome. There are a few other potentially closes matches on 2R as well. About 85 bases match from 3090707 to 3090617, and about 35 bases match from 3089730 to 3089697
+  - These also have the feature designation of elongation factor 1-alpha-1, so this seems to be in the right place. That feature is LOC117783331, which overlaps with all of the BLAST matching promoter sequences
+  ![](https://raw.githubusercontent.com/meschedl/Unckless-Lab-Notebook-Maggie/master/images/innubila-Ef1-alpha-promoter-overlap.png)
+  - The promoter from dmel is 2,315 bases long and completely overlaps with the Ef-1-alpha gene. The region including the BLAST matching sequences is only ~1,200 bases. If I actually go ~2,300 bases in the LOC117783331, it starts getting into the coding sequence/mRNA. I think that's probably not needed so I'm going to make this putative promoter less than the dmel one
+  ![](https://raw.githubusercontent.com/meschedl/Unckless-Lab-Notebook-Maggie/master/images/innubila-putative-Ef1-alpha-promoter.png)
+  - Promoter sequence with mRNA prediction
+  ![](https://raw.githubusercontent.com/meschedl/Unckless-Lab-Notebook-Maggie/master/images/innubila-putative-Ef1-alpha-promoter-mRNA.png)
+  - [Sequence link](https://github.com/meschedl/Unckless_Lab_Resources/blob/main/BAC-DiNV/promoter_seqs/innubila-putative-ef1-alpha-promoter.txt)
+  - This putative promoter is 1,345 bases long
