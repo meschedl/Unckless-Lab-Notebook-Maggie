@@ -70,4 +70,4 @@ This tells me a couple of things. I definitely have virilis DNA contaminating my
 
 ![](https://raw.githubusercontent.com/meschedl/Unckless-Lab-Notebook-Maggie/master/images/20220726-hmw-gel.jpeg)
 
-Really only the 1.2mL top sample shows up (others were probably too low concentration). It looks to me like the sample is above the 48kb marker, but by how much I'm not sure. I am worried that this means that the virus DNA is not quite intact. There is smearing of course but it seems minimal. 
+Really only the 1.2mL top sample shows up (others were probably too low concentration). It looks to me like the sample is above the 48kb marker, but by how much I'm not sure. I am worried that this means that the virus DNA is not quite intact. There is smearing of course but it seems minimal.
