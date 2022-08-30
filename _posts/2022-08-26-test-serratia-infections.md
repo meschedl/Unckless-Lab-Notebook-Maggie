@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Test innubila anf falleni Infections with Serratia
+title: Test innubila and falleni Infections with Serratia
 ---
 
 ## Training on Infections with Serratia on _D. innubila_ and _D. falleni_
