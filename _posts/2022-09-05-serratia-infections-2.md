@@ -55,6 +55,7 @@ Melanogaster flies from Kistie were a little older, probably 12-14 days but they
   - I infected half the flies, dipping the needle in the infection liquid after each fly, then put the flies in their new vial, then disinfected the probe and the needle. Then I moved on to the other half of the flies
   - I tried hard this time to be more consistent with my poking, and I tried to poke more below the wing joint which is softer
 - Set up for innubila:
+
 |vial #|infected with|N#|time put on CO2|Extra time on CO2?|
 |---|---|---|---|---|
 |1|LB|9|3:40pm|no|
