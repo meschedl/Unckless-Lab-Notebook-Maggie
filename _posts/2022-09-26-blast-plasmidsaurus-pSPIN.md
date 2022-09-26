@@ -35,4 +35,9 @@ Read 25 best hit: D. virilis ribosomal RNA
 Read 26 best hit: D. virilis protein  
 Read 27 best hit: Giant abalone DNA  
 
-At this point I stopped because all of this is just crap!! This probably means my extraction didn't work at all, because there seems to be no plasmid DNA in there, except for 1 read but I don't know if I trust it. 
+At this point I stopped because all of this is just crap!! This probably means my extraction didn't work at all, because there seems to be no plasmid DNA in there, except for 1 read but I don't know if I trust it.
+
+
+I also ran the extraction on a gel to see if it was the expected size. It's not! It's supposed to be 14,000bp, but it looks larger than 20,000bp.
+
+![](https://raw.githubusercontent.com/meschedl/Unckless-Lab-Notebook-Maggie/master/images/20220926-gel.jpeg)
