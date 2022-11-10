@@ -10,6 +10,7 @@ title: Testing Mirus Bio Transfection Reagents on Primary innubila Cells
 - Plate layout:
 ![](https://raw.githubusercontent.com/meschedl/Unckless-Lab-Notebook-Maggie/master/images/20221019-innubila-primary-transfection-plate-layout.png)
 - For this I made only 2 master mix tubes
+- Plasmid DNA is at ~1ug/ul
 - All of this was done at room temperature in the cell culture hood. Transfection reagents were thawed at room temp, vortexed, and spun down before use
 - Tube 1
   - 200ul Schneider's medium
@@ -24,7 +25,7 @@ title: Testing Mirus Bio Transfection Reagents on Primary innubila Cells
 - Then the reagents were dripped into the wells, mostly in the middle because most of the primary cells are clustered into the middle of the dishes:
   - Added 103ul of tube 1 to wells B1 and B2
   - Added 104ul of tube 2 to wells C1 and C2
-- Incubated plates at 23 degrees for 24 hours
+- Incubated plates at 23 degrees for 24 hours then checked. The plate was always kept in the incubator between checks
 
 **20221020 Checking transfections**
 - No experimental wells showed any evidence of GFP after 24 or more hours

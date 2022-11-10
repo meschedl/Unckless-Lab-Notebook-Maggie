@@ -119,7 +119,7 @@ Plasmids were extracted [here](https://meschedl.github.io/Unckless-Lab-Notebook-
     - Well C2: 104ul tube 12
     - Well C3: 103ul tube 11
     - Well C4: 104ul tube 12
-- Plates were gently rocked back and forth and put in the 23 degree incubator overnight
+- Plates were gently rocked back and forth and put in the 23 degree incubator for 24 hours then checked. The plate was always kept in the incubator between checks
 
 **20221013 Checking transfections**
 - I used the GFP scope in the little fly room, you have to turn off the room lights and use a separate light source to get the focus right
