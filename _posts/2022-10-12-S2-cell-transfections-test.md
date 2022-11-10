@@ -45,7 +45,7 @@ Plasmids were extracted [here](https://meschedl.github.io/Unckless-Lab-Notebook-
 - Plate layout for pCS2:
 ![](https://raw.githubusercontent.com/meschedl/Unckless-Lab-Notebook-Maggie/master/images/20221012-pCS2-transfection-S2-plate-layout.png)
 - Every experimental condition was replicated at least twice
-- I then made up separate reagent tubes for each experimental treatment based on the instructions for the reagents
+- I then made up separate reagent tubes for each experimental treatment based on the instructions for the reagents. All of this was done at room temperature in the cell culture hood. Transfection reagents were thawed at room temp, vortexed, and spun down before use
 - Plate 1 pAc5 reagent tubes:
   - Tube 1:
     - 200ul Schnieder's medium
@@ -121,9 +121,9 @@ Plasmids were extracted [here](https://meschedl.github.io/Unckless-Lab-Notebook-
     - Well C4: 104ul tube 12
 - Plates were gently rocked back and forth and put in the 23 degree incubator overnight
 
-**20221013 Checking**
+**20221013 Checking transfections**
 - I used the GFP scope in the little fly room, you have to turn off the room lights and use a separate light source to get the focus right
 - All reagent + pAc5 wells showed GFP glowing cells
 - No wells for pCS2 showed any GFP
 - An image was taken on day 1 of well A1 (insect reagent) as well as on day 8. The 2020 reagent well looked the same
-- Images can be found [here](https://docs.google.com/presentation/d/1iXbjwSPoyk_UA45TdKA3XzudSulsi9ZcEZV5mjo9KoI/edit#slide=id.p) however I did not do a good job of imaging these plates because I only took 2 pictures 
+- Images can be found [here](https://docs.google.com/presentation/d/1iXbjwSPoyk_UA45TdKA3XzudSulsi9ZcEZV5mjo9KoI/edit#slide=id.p) however I did not do a good job of imaging these plates because I only took 2 pictures
