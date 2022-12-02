@@ -60,7 +60,7 @@ Because we are getting no GFP expression in the innubila primary cells, it is ha
   - 171ng/ul in 124ul is 21,204ng total 
 - I bead cleaned the sample and resuspended it in 21ul of 10mM tris HCl 
 - Insect and 2020 reagents were thawed at room temp and vortexed and spun down 
-- Add work was done in the cell culture hood 
+- All work was done in the cell culture hood 
 - There are 3 experimental conditions: medium, insect reagent, or 2020 reagent, so 3 reagent tuebs were created:
 - Tube 1
   - 300ul Schneider's medium 
