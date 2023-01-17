@@ -61,3 +61,12 @@ I want to sample the flasks after 5 days because that is when the replication of
 - I ethanol sprayed two old p1000 pipette tip boxes and used them as boxes for the infected flasks to keep them separate in the incubator 
 - Put the flasks in the 22 degree incubator until Saturday where I will harvest them 
 - Sprayed everything with ethanol after this to make sure any virus residue had been eliminated 
+
+**20230114 Freezing Cells**
+- Started up cell culture hood
+- I had 6 flasks to separate and freeze: 2 infected flasks per cell type and 1 non-infected flask per cell type 
+- For every flask I removed ~5mL of supernatant from the flasks and placed in a 5mL sterile tube, these were labeled A and B for the replicates so I could tell which flask they came from  
+- The flasks were also labeled
+- All flasks and 5mL tubes of supernatant were frozen at -80 C
+
+Information on the samples is [here](https://docs.google.com/spreadsheets/d/1OkiVlAwlgjHsAtJ-Nmw-ueKiKlbmddynMK633P6jtcE/edit#gid=0), and the metadata is [here](https://docs.google.com/spreadsheets/d/1uYQXsTzUZgpmrI2LUx3Eg3Ydj9P5jOdT1iLdUXFjtqU/edit#gid=0). 
