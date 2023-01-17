@@ -25,6 +25,7 @@ I want to sample the flasks after 5 days because that is when the replication of
 |---|---|---|---|---|---|
 |1|242|221|227|211|225|
 |2|272|281|203|223|245|
+
 - Each section was averaged, and the average of the two sections was taken
   - Total Myd88 average: 235
 - The cells per mL is the average * 10^4
@@ -39,6 +40,7 @@ I want to sample the flasks after 5 days because that is when the replication of
 |---|---|---|---|---|---|
 |1|216|239|341|299|274|
 |2|305|328||345|295|
+
 - Each section was averaged, and the average of the two sections was taken
   - Total Dv-1 average: 296
 - The cells per mL is the average * 10^4
