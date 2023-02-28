@@ -68,7 +68,7 @@ Only doing half the volume of the libraries (15ul) to try to save it just in cas
 - TapeStation PDF can be seen [here](https://drive.google.com/file/d/1m0yAocffW9VLs_ZE7eqysDZrAkHuzw8P/view?usp=share_link)
 
 **Monarch PCR and DNA Clean Up Kit**
-- Total volume out of the Blue Pippin is ~40ul, and the protocol says to use the 700:1 binding buffer to sample ratio
+- Total volume out of the Blue Pippin is ~40ul, and the protocol says to use the 7:1 binding buffer to sample ratio
 - Transferred the PCR reaction from each sample to new 1.5mL tubes 
 - Added 252ul of DNA Cleanup Binding Buffer to each sample tube 
 - Pipette mixed to mix the sample 
