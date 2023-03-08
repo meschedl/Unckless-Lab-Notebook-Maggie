@@ -176,6 +176,6 @@ I will not be doing qPCR on every sample from this experiment. To cut down on wh
 | H | 45 | 45 | 45    | 47 | 47 | 47 | 46 | 46 | 46   | 48 | 48 | 48 |     |
 |   |    |    | RPL11 |    |    |    |    |    | RP49 |    |    |    |     |
 
-Data from plate 1 (supernatant) can be found [here]  
-Data from plate 2 (cells) can be found [here]  
-Analysis of these samples can be found [here]  
+Data from plate 1 (supernatant) can be found [here](https://drive.google.com/drive/folders/1J_QYSA4bNWzp2tdTitO9NtHW_rGbA5YP)  
+Data from plate 2 (cells) can be found [here](https://drive.google.com/drive/folders/1d9klz_zlX-rvMO8Levp58N_Wqieg2tO3)  
+Analysis of these samples can be found [here](https://github.com/meschedl/Unckless_Lab_Resources/blob/main/qPCR_analysis/20230307-Myd88-Dv-1/20230307-Myd88-Dv1-DiNV-qPCR-analysis.md)  
