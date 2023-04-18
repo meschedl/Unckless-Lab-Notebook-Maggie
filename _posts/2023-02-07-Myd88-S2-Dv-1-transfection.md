@@ -42,7 +42,7 @@ Plate layout:
 - Tube 3 - 3ul reagent per well 
     - 200ul Schneider's medium 
     - 2ul concentrated pAc5 plasmid
-    - 2ul 2020 reagent 
+    - 6ul 2020 reagent 
 - All tubes were pipette mixed gently 
 - Tubes were left in the cell culture hood for 30 minutes so the liposome complexes could form 
 - Then, the reagent mix was added dropwise to the appropriate well:
