@@ -20,8 +20,8 @@ Flies emerged between 4/5 and 4/6. This means they are 6-7 days old for this inf
 | E    | D. innubila | 16 Cq DiNV   | 16DiNV            | male | 3         | 4/5-4/6     | 20230412     | 12:17         | 6-7 days | 10                |
 | F    | D. innubila | 16 Cq DiNV   | 16DiNV            | male | 4         | 4/5-4/6     | 20230412     | 12:24         | 6-7 days | 10                |
 
-Fly mortality was measured every day for 2 weeks, and that data can be found [here](https://docs.google.com/spreadsheets/d/18KNHkRjMwRqvosEb8KE3kL12_xCppiUBnDBcZm3Z48U/edit#gid=0)
+Fly mortality was measured every day for 3 weeks, and that data can be found [here](https://docs.google.com/spreadsheets/d/18KNHkRjMwRqvosEb8KE3kL12_xCppiUBnDBcZm3Z48U/edit#gid=0)
 
-Every 3 days, flies were transferred to new food and any dead flies were frozen. At the end of the 2 weeks, all flies in the experiment were frozen. Information on frozen flies can be found [here](https://docs.google.com/spreadsheets/d/1F5xgs2-ox0CoioZDPFfX4IOE5FqKJZDU2kMEcGIRiwQ/edit#gid=0)
+Every 3 days, flies were transferred to new food and any dead flies were frozen. At the end of the 3 weeks, all flies in the experiment were frozen. Information on frozen flies can be found [here](https://docs.google.com/spreadsheets/d/1F5xgs2-ox0CoioZDPFfX4IOE5FqKJZDU2kMEcGIRiwQ/edit#gid=0)
 
 No day 0 flies were frozen because of a lack of flies to use. 
