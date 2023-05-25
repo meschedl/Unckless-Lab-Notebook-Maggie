@@ -76,6 +76,6 @@ The 3.1 cell fluid wells have a lot more growth, so I decided to keep those well
 - Because I only want 6mL, I divided the xmL and the cell volume 6mL by 10
     - 6.54mL 10% FBS medium 
     - 0.6mL cell resuspention 
-- This was made, and 1.5mL S2 cell suspension was put in wells A1, B1, C1, and A3
+- This was made, and 1.5mL S2 cell suspension was put in wells A1, B1, and, C1
 
 The plate was put in the incubator to grow overnight 
