@@ -19,7 +19,6 @@ I decided not to take any day 0 samples (I did not have enough flies ready at th
 - Made 7 new vials of mushroom food 
 - Wiped down fly room bench with 95% ethanol before using/putting things on it
 - Things taken to the fly room 
-    - tube rack with 10 tubes for day 0
     - mineral oil
     - sterile Co2 pad
     - pulled needles
