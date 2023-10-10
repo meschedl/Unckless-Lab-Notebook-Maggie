@@ -3,7 +3,7 @@ layout: post
 title: qPCR of Poke and Inject Day 0 Flies
 ---
 
-## qPCR of Poked and Injected D. innubila with 16Cq DiNV Fluid at Different Dilutions
+## qPCR of poked and injected D. innubila with 16Cq DiNV fluid at different dilutions
 
 We want to know how much more virus the flies are receiving when getting the injection compared to the needle poke. I had poked 10 and injected 10 males and immediately froze them for this. PCR information on these samples can be found [here](https://meschedl.github.io/Unckless-Lab-Notebook-Maggie/2023/09/22/day0-poke-inject-DNA-extract-and-PCR.html), and the day they were infected is [here](https://meschedl.github.io/Unckless-Lab-Notebook-Maggie/2023/09/08/16Cq-Nanoject-2.html). I also wanted to test different dilutions, because we had some issues before where samples that should (and by all other measures were) be virus negative, but still had some viral product amplification. Potentially that was just spurious amplification at higher cycles, and that diluting the DNA will have those not show up. 
 
