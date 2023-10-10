@@ -68,4 +68,4 @@ Here is the qPCR layout:
     - Used the machine buttons to open and close the lid 
     - Started the program 
 - Data from the qPCR machine can be found [here](https://drive.google.com/drive/folders/1sjni-RjZ4IJXGgKOyowIeBdQe1qECItI)
-- And analysis of the Cq results can be found [here](https://github.com/meschedl/Unckless_Lab_Resources/tree/main/qPCR_analysis/20230928-poke-vs-inject-16Cq-dilutions)
+- And analysis of the Cq results can be found [here](https://github.com/meschedl/Unckless_Lab_Resources/tree/main/qPCR_analysis/20230928-poke-vs-inject-16Cq-dilutions) as a markdown 
