@@ -17,7 +17,7 @@ Samples to test
 | Dead from DiNV injection | 2        | 1ng         | 0.5ng     | TPI and PIF3 | 3         | 24          |
 | water                    | NA       | none        | NA        | TPI and PIF3 | 6         | 12          |
 
-These samples were DNA extracted and diluted to these specific concentrations [here](). The extraction controls used in this qPCR are from that DNA extraction. 
+These samples were DNA extracted and diluted to these specific concentrations [here](https://github.com/meschedl/Unckless_Lab_Resources/blob/main/qPCR_analysis/20231017-test-dilutions-fly-DNA/20231017-qPCR-analysis-fly-DNA-dilutions.md). The extraction controls used in this qPCR are from that DNA extraction. 
 
 Plate layout for the experiment:
 ![](https://raw.githubusercontent.com/meschedl/Unckless-Lab-Notebook-Maggie/master/images/20231017-qPCR-plate.png)
