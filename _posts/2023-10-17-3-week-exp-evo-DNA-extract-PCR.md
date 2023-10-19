@@ -45,7 +45,7 @@ All other steps followed the protocol. 1ul of the 1:10 diluted DNA was used for 
 
 After the PCRs, a 1% small rectangle gel was made (30mL 1X TAE, 0.3g agarose, 0.75ul Midori stain) and run for 35 minutes at 90V. 
 
-![https://raw.githubusercontent.com/meschedl/Unckless-Lab-Notebook-Maggie/master/images/20231018-gel.jpeg]
+![](https://raw.githubusercontent.com/meschedl/Unckless-Lab-Notebook-Maggie/master/images/20231018-gel.jpeg)
 
 This was not exactly what I expected. I think doing a 1:10 dilution on the DNA was diluting it too much. I will go back and PCR each one again with 35 cycles for both primers at a 1:2 dilution. 
 
