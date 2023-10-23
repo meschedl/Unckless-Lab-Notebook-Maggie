@@ -49,3 +49,25 @@ After the PCRs, a 1% small rectangle gel was made (30mL 1X TAE, 0.3g agarose, 0.
 
 This was not exactly what I expected. I think doing a 1:10 dilution on the DNA was diluting it too much. I will go back and PCR each one again with 35 cycles for both primers at a 1:2 dilution. 
 
+**20231020 Redo TPI and p47 PCRs**
+
+I went back and diluted each DNA sample 1:2 (1ul of DNA and 1ul of DNA hydration solution). I did not dilute the positive control. I also changed the cycle numbers in both programs to 35. Information on the primers and their programs can be found [here](https://docs.google.com/spreadsheets/d/1IaLLjsa4SXJr90wUi8xyE1dYvWmHsbThSz3d8N9KaK0/edit#gid=0)
+
+The PCR process followed [this general protocol](https://github.com/meschedl/Unckless_Lab_Resources/blob/main/protocols/PCR_protocol_general.md). 
+
+TPI master mix 
+- 60ul GoTaq
+- 3ul TPI F
+- 3ul TPI R
+- 42ul molecular grade water 
+
+p47 master mix 
+- 60ul GoTaq
+- 3ul p47 F
+- 3ul 47 R
+- 42ul molecular grade water 
+
+
+After the PCRs, a 1% small rectangle gel was made (30mL 1X TAE, 0.3g agarose, 0.75ul Midori stain) and run for 35 minutes at 90V. 
+
+![](https://raw.githubusercontent.com/meschedl/Unckless-Lab-Notebook-Maggie/master/images/20231020-gel.jpeg)
