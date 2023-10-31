@@ -93,8 +93,8 @@ Based on the degraded DNA from the clarification pellet, I thought I would try e
 - Added 1ul of water for the negative control and 1ul known virus positive DNA for the positive control 
 - Vortexed and spun down strip tubes 
 - Placed tubes in PCR programs, 30 cycles for each. PCR program information can be found [here](https://docs.google.com/spreadsheets/d/1IaLLjsa4SXJr90wUi8xyE1dYvWmHsbThSz3d8N9KaK0/edit#gid=0)
-- Afterwards I did a broad range DNA qubit on each sample and they were all too low to read on with these reagents. This means each sample must be less than 2ng/ul concentration 
-    - This is not necessarily bad because only small amounts of DNA are needed for electroporation, but I'm sure I'll have to do that method many times over, and I am not able to resolve the quality of the DNA on a gel with it so low in concentration 
+- Afterwards I did a broad range DNA qubit on each sample and they were all too low to read on with these reagents. This means each sample must be less than 2ng/ul concentration, which is far lower than the amount I'd need for electroporation... 
+   
 
 All samples were run on a 1% gel : small rectangle 30mL 1X TAE and 0.3g agarose, .5ul of Midori stain 
 
