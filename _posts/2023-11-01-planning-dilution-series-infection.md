@@ -3,6 +3,8 @@ layout: post
 title: Planning for a Dilution Series of DiNV Infection 
 --- 
 
+## Plan for Diluting DiNV to Certain FFU Concentrations for Injection
+
 Kent and I's work on developing a IFA based assay for viral titering ([see here](https://meschedl.github.io/Unckless-Lab-Notebook-Maggie/2023/09/08/fixing-and-staining-test.html)) has yielded a possibly good method for determining FFU (focus forming units) of our DiNV fluid from cell culture. 
 
 The one fluid we have tested so far (was 14 Cq) yielded: 210,000 FFU/mL (210 FFU/ul) or 267,500 FFU/mL (267.5 FFU/ul). This was two times where I counted the same well in the same plate (10^-3 for 48hr Dv-1 cells) and got slightly different counts, but Dr. Orozco said those counts were well within the margin of error to be worried about. 
