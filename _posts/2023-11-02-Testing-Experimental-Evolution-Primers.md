@@ -35,4 +35,6 @@ The master mixes, DNA, and PCR tubes were all made and kept on ice. Everything w
 
 After all PCRs were done, a large 1.5% gel was run for 50 minutes at 90V. 165mL 1X TAE, 2.475g agarose and 2ul Midori stain. 
 
+![](https://raw.githubusercontent.com/meschedl/Unckless-Lab-Notebook-Maggie/master/images/20231106-gel.jpeg)
 
+This shows that all primers except for the 1st two seem to work with no off target amplification. The first set, 120-DiNV-1 looks like it might have a little amplification at a size larger than it should be, but it is hard to tell. Those primers may be worked on in the future, or maybe not. 
