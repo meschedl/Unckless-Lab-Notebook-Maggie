@@ -66,4 +66,10 @@ Samples:
 
 All samples were thawed on ice, [this general protocol](https://github.com/meschedl/Unckless_Lab_Resources/blob/main/protocols/cell-DNA-extraction-protocol.md) was used, and filter tips were used at all times. Since all samples were presumed positive for DiNV, there was no specific order to them. 2 Extraction controls were done at the same time as well. 
 
+**PCRs 20231116**
 
+Each sample was diluted 1:1 in water for PCR to conserve the sample. I did not run sample 23 because it was excess. The positive control was not diluted. The PCR programs were set to 30 cycles, but these might need to be changed in the future because of the low DNA level. Information on the primers and their programs can be found [here](https://docs.google.com/spreadsheets/d/1IaLLjsa4SXJr90wUi8xyE1dYvWmHsbThSz3d8N9KaK0/edit#gid=0), but the TPI program had an extension time of 30 seconds. 
+
+The PCR process followed this [general protocol](https://github.com/meschedl/Unckless_Lab_Resources/blob/main/protocols/PCR_protocol_general.md). Afterwards a 1% gel was run for 25 minutes at 100V. There are a few other samples on this gel that I was running at the same time. The samples from this project ad ex ctr 3, ex ctr 4, 17, 25, 33, and 41. 
+
+![](https://raw.githubusercontent.com/meschedl/Unckless-Lab-Notebook-Maggie/master/images/20231116-gel.jpeg)
