@@ -25,9 +25,9 @@ I kept the fly age on the older side (8-9 days) to go along with the first repli
 
 The same needle was used for every vial except for the first one
 
-I made 16 new vials of mushroom food for this. Kent asked me to do 10 males and 10 females injected with the virus and also control so that he can sample them. I will monitor them along with mine and maybe add in their data. 
+I made 18 new vials of mushroom food for this. Kent asked me to do 10 males and 10 females injected with the virus and also control so that he can sample them. I will monitor them along with mine and maybe add in their data. 
 
-The set up of the injection was the same as [previous injections](https://meschedl.github.io/Unckless-Lab-Notebook-Maggie/2023/10/25/third-female-male-nanoject-test.html)
+The set up of the injection was the same as a [previous injections](https://meschedl.github.io/Unckless-Lab-Notebook-Maggie/2023/10/25/third-female-male-nanoject-test.html)
 
 Of note all the viral dilutions were kept on ice until use, and pipette mixed with 20ul before drawing up the fluid into the needle. 
 
