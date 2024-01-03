@@ -3,7 +3,7 @@ layout: post
 title: Taking the 9 Week Samples for the DiNV Experimental Evolution and DNA Extractions 
 ---
 
-## Taking Samples and Fluid Changing Flasks at the 9 Week Mark for Experimental DiNV Evolution in Dinn Cells (~42 days) and Extracting DNA from 1 50ul Sample Per Replicate Flask, and Checking Samples for Virus Presence
+## Taking Samples and Fluid Changing Flasks at the 9 Week Mark for Experimental DiNV Evolution in Dinn Cells (~63 days) and Extracting DNA from 1 50ul Sample Per Replicate Flask, and Checking Samples for Virus Presence
 
 **Sampling 20231107**
 
