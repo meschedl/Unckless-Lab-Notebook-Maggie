@@ -80,7 +80,7 @@ All samples were kept on ice until used in the Hirt extraction
 **20231114 Phenol Chloroform Extraction**
 
 - Still in the fume hood
-- Added equal volume (500ul) of cold phenol-chlorofomr-isoamy-alcohol to the tubes (Note!! phenol-chloroform-isoamy-alcohol is in two phases, I think you are supposed to use the bottom layer for this, see [x](https://hermanlab.unl.edu/protocols/phenolppt.html))
+- Added equal volume of cold phenol-chlorofomr-isoamy-alcohol to the tubes (Note!! phenol-chloroform-isoamy-alcohol is in two phases, I think you are supposed to use the bottom layer for this, see [x](https://hermanlab.unl.edu/protocols/phenolppt.html))
     - 10: 480ul
     - 11: 475ul
     - 12: 480ul
