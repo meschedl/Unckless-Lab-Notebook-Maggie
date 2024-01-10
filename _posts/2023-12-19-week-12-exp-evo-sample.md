@@ -1,13 +1,12 @@
 ---
 layout: post
-title: Taking the 12 Week Samples for the DiNV Experimental Evolution and DNA Extractions 
 ---
 
 ## Taking Samples and Fluid Changing Flasks at the 12 Week Mark for Experimental DiNV Evolution in Dinn Cells (~84 days) 
 
 **Sampling 20231219**
 
-Cells were inoculated on the 26th of Sept [see post here](https://meschedl.github.io/Unckless-Lab-Notebook-Maggie/2023/09/26/experimental-evolution-inoculation.html). There are 3 replicate flasks that have been left to grow and get infected in the 23C incubator for 42 days. I am only removing supernatant for samples, the cells are not getting passed throughout this experiment, the only thing that happens is a tri-weekly fluid change (once every three weeks). In the [six week sampling](https://meschedl.github.io/Unckless-Lab-Notebook-Maggie/2023/11/07/week-6-exp-evo-sampling.html) I took 7 50ul supernatant and 1 1mL supernatant sample per replicate flask, and I did the same style of sampling here as well.  
+Cells were inoculated on the 26th of Sept [see post here](https://meschedl.github.io/Unckless-Lab-Notebook-Maggie/2023/09/26/experimental-evolution-inoculation.html). There are 3 replicate flasks that have been left to grow and get infected in the 23C incubator for 84 days. I am only removing supernatant for samples, the cells are not getting passed throughout this experiment, the only thing that happens is a tri-weekly fluid change (once every three weeks). In the [six week sampling](https://meschedl.github.io/Unckless-Lab-Notebook-Maggie/2023/11/07/week-6-exp-evo-sampling.html) I took 7 50ul supernatant and 1 1mL supernatant sample per replicate flask.  
 
 All steps took place in the cell culture hood 
 
