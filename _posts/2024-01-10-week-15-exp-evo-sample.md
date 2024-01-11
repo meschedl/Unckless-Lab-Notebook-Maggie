@@ -71,3 +71,9 @@ All samples were thawed on ice, [this general protocol](https://github.com/mesch
 **PCRs**
 
 I did not dilute these samples for PCR. The PCR programs were set to 30 cycles. Information on the primers and their programs can be found [here](https://docs.google.com/spreadsheets/d/1IaLLjsa4SXJr90wUi8xyE1dYvWmHsbThSz3d8N9KaK0/edit#gid=0), but the TPI program had an extension time of 30 seconds. 
+
+**Gel 20240111**
+
+1% gel ran for 35 minutes, 90V. 
+
+![](https://raw.githubusercontent.com/meschedl/Unckless-Lab-Notebook-Maggie/master/images/20240111-gel.jpeg)
