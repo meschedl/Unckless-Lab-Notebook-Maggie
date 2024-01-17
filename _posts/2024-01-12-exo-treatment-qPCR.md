@@ -34,6 +34,7 @@ Information on these samples can be found [here](https://docs.google.com/spreads
 - The plate was placed in the qPCR machine and ran on the p47 program from the KMM folder 
 
 plate layout (primer is in the last column and corresponds to the whole row): 
+
 |   | 1      | 2      | 3      | 4      | 5      | 6      | 7      | 8      | 9      | 10     | 11     | 12     |primer|
 |---|--------|--------|--------|--------|--------|--------|--------|--------|--------|--------|--------|--------|------|
 | A | 16     | 16     | 16     | 17     | 17     | 17     | 18     | 18     | 18     | 19     | 19     | 19     | TPI  |
