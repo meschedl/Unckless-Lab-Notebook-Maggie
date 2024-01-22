@@ -23,7 +23,7 @@ I really need the DiNV DNA to stay intact for the electroporation. While it look
     - 18-exo: 14ul of DNA and 2.8ul of dye
     - 19-exo: 12ul of DNA and 2.4ul of dye 
 - Added 48kb ladder and samples into the gel 
-- Set the gel for 55C and 6.5 hours 
+- Set the gel for 55V and 6.5 hours 
 
 This gel did not go as well as I'd hoped, there seemed to be just not enough DNA to see very well, and something weird happened to one of the ladders and one of the samples. I edited the photo of the gel to try to see bands clearer, but I'm not sure if that helped.
 
