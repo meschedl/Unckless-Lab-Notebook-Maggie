@@ -63,3 +63,9 @@ For each colony, I picked it with an autoclaved pipette tip and swirled it in th
 - Added 1ul of molecular grade water, and 1ul of positive DNA for the p47 primers to their respective tubes 
 - Vortexed and spun down 
 - Placed tubes in the p47 and 16S PCR programs, each cycling 35 times 
+
+Ran 2 gels, the first gel did not show the p47 samples because of a dye issue so I ran it again separately. So far no real evidence of retained DiNV DNA... 
+
+![](https://raw.githubusercontent.com/meschedl/Unckless-Lab-Notebook-Maggie/master/images/20240120-gel-1.jpg)
+
+![](https://raw.githubusercontent.com/meschedl/Unckless-Lab-Notebook-Maggie/master/images/20240130-gel-2.jpg)
