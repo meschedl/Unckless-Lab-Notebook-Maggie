@@ -47,8 +47,8 @@ Samples:
 - Thawed reagents and primer on ice and vortexed and spun down 
 - Made master mix on ice:
     - 32.5ul GoTaq
-    - 3.25ul F primer 
-    - 3.25ul R primer 
+    - 1.625ul F primer 
+    - 1.625ul R primer 
     - 19.5ul molecular grade water
 - Master mix vortexed and spun down before use
 - Added 9ul of mix to strip tubes 
