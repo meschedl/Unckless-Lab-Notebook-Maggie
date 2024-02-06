@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Colony PCR on Electroporation Plate
+title: More Colony PCR on Electroporation Plates
 ---
 
 ## More Colony PCR on Plates from Electroporation of pSPIN-BAC E. coli with DiNV DNA Attempt 1
