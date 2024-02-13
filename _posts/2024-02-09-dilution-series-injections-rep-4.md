@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Diluting DiNV and Injecting Flies Third Replicate
+title: Diluting DiNV and Injecting Flies Fourth Replicate
 ---
 
-## Diluting Titered DiNV Stock to Specific FFU and Injecting in Male and Female D. innubila Replicate 3 
+## Diluting Titered DiNV Stock to Specific FFU and Injecting in Male and Female D. innubila Replicate 4 
 
 **Making Dilutions**
 
