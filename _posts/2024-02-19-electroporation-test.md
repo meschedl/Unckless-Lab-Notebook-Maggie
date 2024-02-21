@@ -148,5 +148,37 @@ I also want to test whether DiNV DNA is even getting into the cells by doing DNA
 - Let tubes air dry ~45 min on kim wipe
 - Resuspended pellet in 20ul DNA hydration solution and let sit on bench overnight 
 
+**Checking Plates**
+
+- Kistie had taken the plates out of the 37C incubator at ~9am on 20240220 morning
+- There was growth on every plate, and I think this is because of two reasons. When adding the bacteria to the plate, they are on LB that doesn't have antibiotics and they can grow on that for a while (especially the 150ul samples). Also that when I added the anitbiotic and let it soak in in the 37C incubator, the plates got really wet. And I wasn't sure how to dry them and I think the bacteria moved around a lot on that wetness. But it still looks like to me that the bacteria that did not get the pTWIN+ has much less growth than the bacteria that did. And it didn't matter which electrocompetent cell I used 
+
+![](https://raw.githubusercontent.com/meschedl/Unckless-Lab-Notebook-Maggie/master/images/pSPIN-BAC-no-DNA-plates.jpeg)
+
+![](https://raw.githubusercontent.com/meschedl/Unckless-Lab-Notebook-Maggie/master/images/pSPIN-BAC-with-pTWIN-plates.jpeg)
+
+![](https://raw.githubusercontent.com/meschedl/Unckless-Lab-Notebook-Maggie/master/images/NEB-cells-no-DNA-plates.jpeg)
+
+![](https://raw.githubusercontent.com/meschedl/Unckless-Lab-Notebook-Maggie/master/images/NEB-cells-with-pTWIN-plates.jpeg)
+
+From this I concluded that the pSPIN-BAC electrocompetent cells I made are electrocompetent. 
+
+**PCRs on DNA Extracts**
+
+- I want to test all of the DNA samples for if they have retained DiNV DNA with PCR (I might have to do qPCR as well)
+- 4 PCRs were run on the samples, and the process followed the [general PCR protocol](https://github.com/meschedl/Unckless_Lab_Resources/blob/main/protocols/PCR_protocol_general.md) completely. Master mix volumes are listed here:
+
+|reagent|p47|16S|lef 9|lef 4|
+|---|---|---|---|
+|GoTaq|42.5ul|42.5ul|42.5ul|42.5ul|
+|F primer|2.125ul|2.125ul|2.125ul|2.125ul|
+|R primer|2.125ul|2.125ul|2.125ul|2.125ul|
+|molecular grade water|29.75ul|29.75ul|29.75ul|29.75ul|
+
+- All PCR programs were run for 35 cycles except for the 16S program which ran for 30 cycles, and program information can be found [here](https://docs.google.com/spreadsheets/d/1IaLLjsa4SXJr90wUi8xyE1dYvWmHsbThSz3d8N9KaK0/edit#gid=0)
+- A 1% gel was run at 90V for 45 minutes to resolve the bands:
+
+
+
 
 

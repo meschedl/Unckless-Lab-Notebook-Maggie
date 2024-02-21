@@ -9,9 +9,9 @@ Rob wanted me to make sure that the virus solution that I gave the cells that I 
 
 DNA Extraction followed exactly [the general protocol](https://github.com/meschedl/Unckless_Lab_Resources/blob/main/protocols/cell-DNA-extraction-protocol.md) except that DNA was only resuspended for 30min before use in PCRs 
 
-4 PCRs were run on the samples, and the process followed the [general PCR protocol](https://github.com/meschedl/Unckless_Lab_Resources/blob/main/protocols/PCR_protocol_general.md) completely. Master mix volumes can be found:
+4 PCRs were run on the samples, and the process followed the [general PCR protocol](https://github.com/meschedl/Unckless_Lab_Resources/blob/main/protocols/PCR_protocol_general.md) completely. Master mix volumes are listed here:
 
-|reagent|p47|11|lef 9|lef 4|
+|reagent|p47|115|lef 9|lef 4|
 |---|---|---|---|
 |GoTaq|17.5ul|17.5ul|17.5ul|17.5ul|
 |F primer|0.875ul|0.875ul|0.875ul|0.875ul|
