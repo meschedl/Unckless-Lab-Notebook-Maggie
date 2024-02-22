@@ -178,6 +178,10 @@ From this I concluded that the pSPIN-BAC electrocompetent cells I made are elect
 - All PCR programs were run for 35 cycles except for the 16S program which ran for 30 cycles, and program information can be found [here](https://docs.google.com/spreadsheets/d/1IaLLjsa4SXJr90wUi8xyE1dYvWmHsbThSz3d8N9KaK0/edit#gid=0)
 - A 1% gel was run at 90V for 45 minutes to resolve the bands:
 
+![](https://raw.githubusercontent.com/meschedl/Unckless-Lab-Notebook-Maggie/master/images/20240221-gel.jpeg)
+
+All samples amplified, so either the cells who didn't get electroporated took up the DNA, or that the cells were not washed enough to remove any DNA on the outside of the cells. I will have to try this again. 
+
 
 
 
