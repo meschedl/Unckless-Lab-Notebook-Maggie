@@ -51,7 +51,7 @@ I wondered wether the change from ice to warm buffer made the virus DNA go insid
 |GoTaq|32.5ul|32.5ul|32.5ul|32.5ul|
 |F primer|1.625ul|1.625ul|1.625ul|1.625ul|
 |R primer|1.625ul|1.625ul|1.625ul|1.625ul|
-|molecular grade water|22.75ul|22.75ul|22.75ul|
+|molecular grade water|22.75ul|22.75ul|22.75ul|22.75ul|
 
 - All PCR programs were run for 30 cycles, and program information can be found [here](https://docs.google.com/spreadsheets/d/1IaLLjsa4SXJr90wUi8xyE1dYvWmHsbThSz3d8N9KaK0/edit#gid=0)
 - 1% gel was run at 90V for 45 minutes to resolve the bands:

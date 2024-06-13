@@ -3,7 +3,7 @@ layout: post
 title: Two sets of qPCR on viral load samples
 ---
 
-## PIF 3 and TPI PCR on D. innubila injected with dilutions of DiNV from day 0, 1, 3, and 5 set 1 and 2 
+## PIF 3 and TPI qPCR on D. innubila injected with dilutions of DiNV from day 0, 1, 3, and 5 set 1 and 2 
 
 Sample information can be found [here](https://docs.google.com/spreadsheets/d/14mcSX0mDDw-3cea6Oii0t9ylY7oqrMfXe3hAOwqSgEg/edit?gid=938060891#gid=938060891), and injection information is [here](https://meschedl.github.io/Unckless-Lab-Notebook-Maggie/2023/12/12/DiNV-dilution-viral-load-injections.html)
 
