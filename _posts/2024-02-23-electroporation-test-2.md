@@ -80,7 +80,7 @@ Electroporating and not E. coli cells with DiNV DNA and then testing for DiNV DN
 |GoTaq|53ul|53ul|53ul|53ul|53ul|
 |F primer|2.65ul|2.65ul|2.65ul|2.65ul|2.65ul|
 |R primer|2.65ul|2.65ul|2.65ul|2.65ul|2.65ul|
-|molecular grade water|37.1ul|37.1ul|37.1ul|37.1ul|
+|molecular grade water|37.1ul|37.1ul|37.1ul|37.1ul|37.1ul|
 
 - All PCR programs were run for 30 cycles except for p47 which was then re-run for 30 cycles, and program information can be found [here](https://docs.google.com/spreadsheets/d/1IaLLjsa4SXJr90wUi8xyE1dYvWmHsbThSz3d8N9KaK0/edit#gid=0)
 - 1% gels were run at 90V for 45 minutes to resolve the bands:
