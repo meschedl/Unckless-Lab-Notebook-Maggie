@@ -83,3 +83,24 @@ Cells were inoculated [here](https://meschedl.github.io/Unckless-Lab-Notebook-Ma
 | 63   | Myd88 DiNV | 5C   | day5 | remaining ~1mL |
 | 64   | Myd88 DiNV | 5D   | day5 | remaining ~1mL |
 
+
+**Qubit on the Fluid concentration Samples 20240327**
+
+- Followed high sensitivity Qubit protocol 
+
+|Sample|ng/ul|
+|---|---|
+|A|too low|
+|B|too low|
+|C|0.096|
+|D|0.775|
+|E|0.082|
+|F|too low|
+|G|3.57|
+|H|3.7|
+|I|4.32|
+|J|4.19|
+|K|3.87|
+|L|2.75|
+
+Analysis [here](https://github.com/meschedl/Unckless_Lab_Resources/blob/main/qPCR_analysis/fluid_concentration/fluid_concentration_analysis.md) for fluid concentration data. 
