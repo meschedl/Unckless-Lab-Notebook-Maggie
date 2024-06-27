@@ -10,7 +10,7 @@ Electroporating and not E. coli cells with DiNV DNA and then testing for DiNV DN
 **Electroporation**
 
 - Prepared 4 1.5mL tubes with 975ul SOC buffer
-- Using sample [22-exo/](https://docs.google.com/spreadsheets/d/19HplN9TvH7pDqtDkWpclmwUZHeBB1PwhQunieT6FHSo/edit?gid=0#gid=0) 
+- Using sample [22-exo](https://docs.google.com/spreadsheets/d/19HplN9TvH7pDqtDkWpclmwUZHeBB1PwhQunieT6FHSo/edit?gid=0#gid=0) 
     - Dilute 1:10 in 10mM tris HCl for diluted sample
     - 2ul DNA and 18ul tris 
     - Keep on ice 
@@ -32,25 +32,25 @@ Electroporating and not E. coli cells with DiNV DNA and then testing for DiNV DN
     - Placed 8B on ice
     - Placed 8A in the 30C shaking incubator 1 hour 
 - pSPIN-BAC DNA electro - tube 9A and 9B 
-    - Added 25ul pSPIN-BAC cells to a cuvette on ice labeled 8A
+    - Added 25ul pSPIN-BAC cells to a cuvette on ice 
     - Added 2ul 22-exo DNA
     - Electroporated on EC-2 settings
-    - Immediately added 975ul of 37C SOC buffer
+    - Immediately added 975ul of 30C SOC buffer
     - Transferred 490ul to two 1.5mL tube labeled "9A and 9B"
     - Placed 9B on ice
     - Placed 9A in the 30C shaking incubator 1 hour
 - pSPIN-BAC diluted DNA no electro - tube 10A and 10B 
     - Added 25ul pSPIN-BAC cells to a tube on ice labeled 10A
     - Added 2ul diluted 22-exo DNA
-    - Immediately added 975ul of 37C SOC buffer
+    - Immediately added 975ul of 30C SOC buffer
     - Transferred 490ul to a 1.5mL tube labeled "10B"
     - Placed 10B on ice
     - Placed 10A in the 30C shaking incubator 1 hour 
 - pSPIN-BAC diluted DNA electro - tube 11A and 11B 
-    - Added 25ul pSPIN-BAC cells to a cuvette on ice labeled 8A
+    - Added 25ul pSPIN-BAC cells to a cuvette on ice 
     - Added 2ul diluted 22-exo DNA
     - Electroporated on EC-2 settings
-    - Immediately added 975ul of 37C SOC buffer
+    - Immediately added 975ul of 30C SOC buffer
     - Transferred 490ul to two 1.5mL tube labeled "11A and 11B"
     - Placed 11B on ice
     - Placed 11A in the 30C shaking incubator 1 hour
