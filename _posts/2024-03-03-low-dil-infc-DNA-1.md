@@ -57,3 +57,19 @@ All samples were thawed on ice, [this general protocol](https://github.com/mesch
 | 75        | A         | 0.05 FFU  | day14      | no    |
 | 76        | A         | 0.05 FFU  | day14      | no    |
 | ex ctrl 2 | A         | NA        | NA         | NA    |
+
+Then, I did PCR for p47 and TPI on each sample: 
+
+- This followed the [general PCR protocol](https://github.com/meschedl/Unckless_Lab_Resources/blob/main/protocols/PCR_protocol_general.md)
+- Primer information can be found [here](https://docs.google.com/spreadsheets/d/1IaLLjsa4SXJr90wUi8xyE1dYvWmHsbThSz3d8N9KaK0/edit?usp=drive_link)
+
+|reagent|P47|TPI|
+|---|---|---|
+|GoTaq|270ul|270ul|
+|F primer|13.5ul|13.5ul|
+|R primer|13.5ul|13.5ul|
+|molec grade water|189ul|189ul|
+
+- All mixes and DNA were kept on ice and vortexed and spun down before use, samples were run for 30 cycles 
+
+Results from the PCRs can be found [here](https://docs.google.com/spreadsheets/d/1QPngyfGwT0cfkM26KCWdVKD_ycH-jwgp9y6MGtih11E/edit?gid=571951554#gid=571951554)
