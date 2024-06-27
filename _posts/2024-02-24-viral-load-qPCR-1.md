@@ -64,7 +64,7 @@ The plan is to do every sample only once (no tech reps in qPCR) but there will b
 
 qPCR data for plate 1 can be found [here](https://drive.google.com/drive/u/0/folders/12cAIv2CVGh3J3WooZ_yMpep61rJxMUbw)
 
-**qPCR of Plate 1 with PIF3 and TPI was done on 20240225**
+**qPCR of Plate 2 with PIF3 and TPI was done on 20240225**
 
  Thawed plate 2 on ice, pipette mixed each well, then spun down 
 - Prepared mixes for qPCR on ice, everything was thawed on ice, vortexed and spun down before use:
@@ -86,6 +86,6 @@ qPCR data for plate 1 can be found [here](https://drive.google.com/drive/u/0/fol
 - I also used only plate 2 DNA 
 - Ran the TPI plate on the same KMM-P47 program
 
-qPCR data for plate 1 can be found [here](https://drive.google.com/drive/u/0/folders/1KwuEVwrfwOJj_C0jMC0JFIPkHoI6klf1)
+qPCR data for plate 2 can be found [here](https://drive.google.com/drive/u/0/folders/1KwuEVwrfwOJj_C0jMC0JFIPkHoI6klf1)
 
 Analysis with all data is [here](https://github.com/meschedl/Unckless_Lab_Resources/blob/main/qPCR_analysis/20240228-viral-load-dilutions/p4-DiNV-viral-dilutions-over-time.md)
