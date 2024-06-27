@@ -43,7 +43,7 @@ title: Hirt Extraction of DiNV Infected Cells for DNA for Electroporation
 - Added 3ul of 5mg/mL RNase A to each sample
 - Added 150ul of 1.2% SDS to each tube
 - Inverted tubes, gently resuspended pellet with clipped pipette tips to mix 
-- Incubated tubes on bench for ~2 minutes to lyse/digest all cells/virus
+- Incubated tubes on bench for ~20 minutes to lyse/digest all cells/virus
     - This seemed to work, the cell pellets had disappeared by 15 minutes, and I had periodically inverted the samples throughout that time
 - Precipitated chromosomal DNA and cellular debris by added 210ul of 3M CsCl, 1M potassium acetate, 0.67M acetic acid
   - A white precipitate immediately started forming in the tubes, I pipette mixed the solution with clipped pipette tips
