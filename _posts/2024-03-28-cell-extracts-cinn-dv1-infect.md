@@ -47,5 +47,6 @@ Samples:
 - Plates were thawed from 80 on ice (took a while)
 - Then each well was pipette mixed to homogenize the cells
 - 50ul of solution from each well was added to a 1.5mL tube and placed on ice (see table above)
+- 1ul of 1/1000 lambda DNA solution was added to each sample for an extraction control 
 - Then the extraction proceeded with the [Cell DNA Extraction Protocol](https://github.com/meschedl/Unckless_Lab_Resources/blob/main/protocols/cell-DNA-extraction-protocol.md) exactly 
 - Samples were stored at -80 afterwards and were not quantified before qPCR 
